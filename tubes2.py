@@ -22,6 +22,7 @@ def getParagraph(paragraphs):
             yield paragraph
 
 
+
 def getTraining():
     # READ ALL XML TRAINING FILE AND PARSE THE ARTICLE CONTENT TO 1 CSV FILE
     print 'extracting data'
@@ -29,7 +30,6 @@ def getTraining():
         # OPEN TOPIC FILE TO GET ALL TRAINING FILE NAME
         readTrainingFile = numpy.genfromtxt(listTraining, delimiter=" ", dtype=str)
 
-    print 'extracting data'
     with open('dataset/topic/Test101.txt') as listTraining:
         # OPEN TOPIC FILE TO GET ALL TRAINING FILE NAME
         readTestFile = numpy.genfromtxt(listTraining, delimiter=" ", dtype=str)
@@ -66,8 +66,8 @@ def getTraining():
         for word in paragraphs:
             words = words + ' ' + word.childNodes[0].nodeValue
         tmpTesting.append([str(trainingFile[1]), str(trainingFile[2]), words])
-
-    print 'Saving to training.csv'
+    print tmpTesting
+    # print 'Saving to training.csv'
     # CREATE NEW RAW CSV TRAINING FILE FROM NUMPY TMPTRAINING
     arrayTraining = numpy.asarray(tmpTraining)
     numpy.savetxt('training.csv', arrayTraining, fmt='%1s', delimiter='>>')
@@ -163,41 +163,72 @@ def preprocessing():
     arrayPreprocess = numpy.asarray(rawsTesting)
     numpy.savetxt('preprocessTesting.csv', arrayPreprocess, fmt='%1s', delimiter='>>')
 
+
+
+
 def classification():
-    with open('preprocess.csv') as raw:
-        praproses = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
+    with open('preprocessTraining.csv') as raw:
+        praprosesTraining = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
+
+    with open('preprocessTesting.csv') as raw:
+        praprosesTesting = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
     print 'Starting Classification'
 
-    getWords = []
-    label = []
-    for idx in range(0, len(praproses)):
-        getWords.append(praproses[idx][2])
-        label.append(praproses[idx][1])
-    print len(getWords)
+    # =============================================
+    getWordsTraining = []
+    labelTraining = []
+    for idx in range(0, len(praprosesTraining)):
+        getWordsTraining.append(praprosesTraining[idx][2])
+        labelTraining.append(praprosesTraining[idx][1])
+    # labelTraining.sort()
 
-    splitWords = []
-    for idx in range(0, len(getWords)):
-        splited = getWords[idx].split()
-        splitWords.append(splited)
+    splitWordsTraining = []
+    for idx in range(0, len(getWordsTraining)):
+        splited = getWordsTraining[idx].split()
+        splitWordsTraining.append(splited)
     # print splitWords
 
-    tfIdf = TfidfVectorizer(tokenizer=lambda x:x,min_df=4,preprocessor=lambda x: x,lowercase=False)
-
-    transformTfIdf = tfIdf.fit_transform(splitWords)
-
-    # classifier
-
-    classifier = MultinomialNB().fit(transformTfIdf, label)
-    # prediction =
-    # print classifier
+    tfIdfTraining = TfidfVectorizer(tokenizer=lambda x:x,min_df=4,preprocessor=lambda x: x,lowercase=False)
+    transformTfIdfTraining = tfIdfTraining.fit_transform(splitWordsTraining)
+    classifier = MultinomialNB().fit(transformTfIdfTraining, labelTraining)
 
 
-    # print coba
+    getWordsTesting = []
+    labelTesting = []
+    for idx in range(0, len(praprosesTesting)):
+        getWordsTesting.append(praprosesTesting[idx][2])
+        # labelTesting.append(praprosesTesting[idx][1])
+        print praprosesTesting[idx][1]
+    # print labelTesting
+    # labelTesting.sort()
 
-    # CLASSIFIER
-    # print 'saving to tfidf.csv'
-    # arrayPreprocess = numpy.asarray(transformTfIdf)
-    # numpy.savetxt('tfidf.csv', arrayPreprocess, fmt='%2s', delimiter='>>')
+    splitWordsTesting = []
+    for idx in range(0, len(getWordsTesting)):
+        splited = getWordsTesting[idx].split()
+        splitWordsTesting.append(splited)
+
+    # tfIdfTesting = TfidfVectorizer(tokenizer=lambda x:x,min_df=4,preprocessor=lambda x: x,lowercase=False)
+    transformTfIdfTesting = tfIdfTraining.transform(splitWordsTesting)
+    # classifier = MultinomialNB().fit(transformTfIdfTesting, labelTesting)
+
+    prediction = classifier.predict(transformTfIdfTesting)
+    correct, truePositif, trueNegative, falsePositif, falseNegative = 0, 0, 0, 0, 0
+
+    for idx in range(len(labelTesting)):
+        if labelTesting[idx] == prediction[idx]:
+            correct += 1
+        
+        if labelTesting[idx] == 0 and prediction[idx] == 0 : truePositif+=1
+        elif labelTesting[idx] == 1 and prediction[idx] == 0 : falsePositif+=1
+        elif labelTesting[idx] == 0 and prediction[idx] == 1 : falseNegative+=1
+        elif labelTesting[idx] == 1 and prediction[idx] == 1 : trueNegative+=1
+
+    # accuration  = correct / len(labelTesting)
+    # f1Score     = (2 * truePositif) 
+    # / (2 * truePositif+falsePositif+falseNegative)
+
+    # print 'Akurasi      = ', labelTraining
+    # print 'F1 Score     = ', f1Score
 
 def main():
     getTraining()
