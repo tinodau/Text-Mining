@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119150" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: GM, VW lawyers face off in Lopez spy case.</title>
+<headline>GM, VW lawyers face off in Lopez spy case.</headline>
+<dateline>DETROIT 1996-10-16</dateline>
+<text>
+<p>Lawyers for General Motors Corp. and Volkswagen AG were to face off in a U.S. court for the first time Wednesday in the three-year-old saga of J. Ignacio Lopez de Arriortua and GM's industrial espionage charges against VW.</p>
+<p>In a hearing scheduled for 2 p.m. EDT, 1800 GMT, U.S. District Judge Nancy Edmunds will hear oral arguments on several motions in the lawsuit GM filed against Volkswagen in March, including VW's motion to dismiss the case.</p>
+<p>GM alleges that when Lopez abruptly left the Detroit-based automaker to become VW's production chief in March 1993, he stole trade secrets, including product plans, worldwide prices that GM pays for parts, and plans for a super-efficient manufacturing concept called &quot;Plant X.&quot;</p>
+<p>The lawsuit alleges that Lopez, VW Chairman Ferdinand Piech and other defendants set up an elaborate operation to copy GM information into VW computers and then shredded the documents. GM claims that the Plant X concept, in which outside suppliers take a greater role in vehicle assembly, was used in a new VW plant in Brazil.</p>
+<p>Volkswagen has denied the allegations.</p>
+<p>If Edmunds rules that the case can proceed, another hearing will be held Oct. 28 to determine whether GM's claims of racketeering, copyright infringement and trademark violations should be included in a trial on the case.</p>
+<p>GM had difficulty serving the suit to Lopez, who has avoided the United States since he left GM. But GM process servers caught up with him at a VW executive meeting in Vancouver, Canada, in June and served him with the suit as he used a telephone in a hotel lobby.</p>
+<p>GM also will ask Edmunds whether it can mail the suit to three of the 11 defendants in the suit who have not yet been served -- VW executives Jorge Alvarez, Rosario Piazza and Andre Versteeg.</p>
+<p>VW, subject to continuing criminal investigations in both Germany and the United States, sued GM and its Adam Opel AG unit for defamation in a German court in May, claiming GM made false accusations against VW. A decision in that case is expected Oct. 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

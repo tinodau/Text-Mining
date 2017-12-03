@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300817" id="root" date="1997-01-10" xml:lang="en">
+<title>GERMANY: Chronology of Volkswagen's Lopez affair.</title>
+<headline>Chronology of Volkswagen's Lopez affair.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>Volkswagen AG and General Motors Corp. ended one of the bitterest battles in corporate history Thursday, reaching an out-of-court settlement of alleged industrial espionage by GM executives who moved to VW. Following is a chronology of events leading to the settlement.</p>
+<p>1992</p>
+<p>May - Jose Ignacio Lopez de Arriortua, a 55-year-old Spaniard, is named vice president at GM responsible for woldwide purchasing.</p>
+<p>November - VW makes initial contact with Lopez.</p>
+<p>1993</p>
+<p>March - Lopez, along with seven of his colleagues, leave GM and its German unit Adam Opel AG to join VW. Lopez is appointed to VW management board in charge of production.</p>
+<p>April - Opel initiates legal proceedings against Lopez at a court in Darmstadt, near Frankfurt, allegeding industrial espionage to the detriment of Opel and GM.</p>
+<p>July - U.S. prosecutors in Detroit begin probe against Lopez and his colleagues.</p>
+<p>1994</p>
+<p>February - The Frankfurt regional court rejects Opel's plea during a hearing for an employment ban on its former managers now working at VW.</p>
+<p>May - Opel seeks a warrant against Lopez, saying it had discovered new evidence.</p>
+<p>1996</p>
+<p>January - The Darmstadt public prosecutors' office ends probe and asks for a statement from Lopez.</p>
+<p>March - GM and Opel initiate proceedings at a U.S. federal court in Detroit, seeking unspecified damages. The charges are conspiracy and breach of confidentiality.</p>
+<p>May - VW initiates proceedings of its own in a Frankfurt court for damages to its reputation against GM and Opel.</p>
+<p>July - VW contests GM's damage claims in the U.S.</p>
+<p>October - Frankfurt court rejects VW's claims of damage to its reputation against GM and Opel. In the United States, the Detroit federal court allows GM's damage claim against Volkswagen, clearing the way for a jury trial.</p>
+<p>November 26 - A U.S. court decides Volkswagen can be prosecuted under a special racketeering law first used to fight organised crime, paving the way for higher possible damanges.</p>
+<p>November 29 - Lopez resigns from VW management board.</p>
+<p>December 13 - Prosecutors in Darmstadt announce criminal charges against Lopez and three of his associates who followed him to VW from GM in March 1993. Lopez, if convicted, could face up to five years in prison.</p>
+<p>1997</p>
+<p>Week of January 6 - New round of talks between the two automakers is reported under way.</p>
+<p>January 9 - GM and VW announce out-of-court settlement has been reached and that all civil litigation between the companies and individuals would be dismissed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

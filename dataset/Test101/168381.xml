@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168381" id="root" date="1996-11-05" xml:lang="en">
+<title>GERMANY: VW details nine-month sales, profits.</title>
+<headline>VW details nine-month sales, profits.</headline>
+<dateline>WOLFSBURG, Germany 1996-11-05</dateline>
+<text>
+<p>Nine months to</p>
+<p>September 30.</p>
+<p>    Group deliveries to customers	  2,986,977 vs 2,653,853</p>
+<p>Of which</p>
+<p>     -- Domestic				 741,586   vs 724,515</p>
+<p>     -- Foreign				  2,245,391 vs 1,926,336</p>
+<p>    Group sales				  2,791,819 vs 2,542,567</p>
+<p>Of which</p>
+<p>     -- Domestic				 720,168   vs 698,588</p>
+<p>     -- Foreign				  2,071,651 vs 1,843,979</p>
+<p>    Group production			   2,741,914 vs 2,521,316</p>
+<p>Of which</p>
+<p>     -- Domestic				 1,194,630 vs 1,144,559</p>
+<p>     -- Foreign				  1,547,284 vs 1,376,757</p>
+<p>Group sales (million marks)</p>
+<p>Of which</p>
+<p>     -- Volkswagen group		     74,487    vs 65,209</p>
+<p>     -- Volkswagen AG (parent company)   36,983    vs</p>
+<p>32,751</p>
+<p>Group net profit (million marks)</p>
+<p>Of which</p>
+<p>     -- Volkswagen group		     465	 vs 185</p>
+<p>     -- Volkswagen AG			  395	 vs 215</p>
+<p>Group workforce</p>
+<p>Of which</p>
+<p>     -- Volkswagen group		     139,017   vs 142,195</p>
+<p>     -- Volkswagen AG			  104,239   vs 100,225</p>
+<p>Group investments (million marks)</p>
+<p>Of which</p>
+<p>     -- Fixed investments		    5,001     vs 3,036</p>
+<p>     -- Including rentals		    11,926    vs 9,576</p>
+<p>Group cash flow</p>
+<p>Of which</p>
+<p>     -- Excluding rentals		    4,603     vs 4,321</p>
+<p>     -- Including rentals		    7,529     vs 6,916</p>
+<p>NOTE - Full name of the German carmaker is Volkswagen AG. VW released on October 23 profit and sales figures. The above information is from the group's full report to investors for the nine-month period.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

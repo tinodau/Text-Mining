@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798115" id="root" date="1997-08-13" xml:lang="en">
+<title>VIETNAM: More than 20 missing after Hanoi ferry disaster.</title>
+<headline>More than 20 missing after Hanoi ferry disaster.</headline>
+<dateline>HANOI 1997-08-13</dateline>
+<text>
+<p>A crowded ferry collided with barges and overturned outside Hanoi throwing dozens of people into the water and killing at least four, a city official said on Wednesday.</p>
+<p>More than 20 passengers were missing.</p>
+<p>The official, who declined to be identified, said the ferry struck the barges on Monday night as it was attempting to pass them in a narrow channel on the Red River just north of the city.</p>
+<p>It capsized immediately spilling people and cargo into the river. By Wednesday morning 73 people had been rescued. More than 20 families had reported members still missing.</p>
+<p>The accident was not reported by state media on Monday or Tuesday for reasons which were not clear.</p>
+<p>Survivors were quoted by local newspapers on Wednesday as saying the ferry captain and crew had shouted warnings to the barge operators, who failed to respond.</p>
+<p>Some passengers tried to stop the collision by fending off the vessels by hand. They were tossed into the river as the force of the barges overturned the ferry.</p>
+<p>The area of the accident, close to a major Soviet-built Bridge, was the scene of another ferry disaster three years ago in which 28 people died.</p>
+<p>The official said efforts to recover bodies were continuing, but it was likely to take several days before all were found because of fast-moving currents which were likely to have swept people downstream.</p>
+<p>Police said nine people, all members of the barge crew, had been arrested.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

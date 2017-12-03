@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250503" id="root" date="1996-12-11" xml:lang="en">
+<title>GERMANY: Prosecutor sets news briefing for Friday on Lopez.</title>
+<headline>Prosecutor sets news briefing for Friday on Lopez.</headline>
+<dateline>FRANKFURT 1996-12-11</dateline>
+<text>
+<p>German prosecutors will hold a news conference on Friday at 0930 GMT to make public whether they will file criminal charges against former Volkswagen AG production executive Jose Ignacio Lopez de Arriortua.</p>
+<p>The public prosecutors' office in Darmstadt, a city near Frankfurt, said the briefing would be held at its office.</p>
+<p>Lopez resigned from VW in late November amid allegations he took secret data from General Motors Corp when he left to join VW in 1993. His lawyer has said that he expected criminal charges to be filed against his client.  </p>
+<p>Sources have said Lopez, a 55-year-old Spaniard, would face lesser-than-expected criminal charges involving embezzlement and betrayal against GM. Charges would also be filed against some of the colleagues who followed him from GM to VW.</p>
+<p>But the sources said the charges would not include more serious allegations involving fraud that can carry a jail term of five to 10 years.</p>
+<p>The expected charges against Lopez are punishable by up to three years in prison or a fine, but first-time offenders do not usually face prison, according to legal experts.</p>
+<p>GM contends that Lopez used the data from GM to cut VW's costs by more than a billion marks, quickly eroding a 20 percent cost advantage that its German unit Opel had over VW, Europe's largest carmaker.</p>
+<p>--John Gilardi, Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

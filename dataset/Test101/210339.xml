@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210339" id="root" date="1996-11-22" xml:lang="en">
+<title>GERMANY: German court conceals decision in GM-VW case.</title>
+<headline>German court conceals decision in GM-VW case.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>An appellate court reached a decision Friday on handing over German prosecution documents concerning Volkswagen AG to the U.S. Justice Department, but it declined to announce its decision until next week.</p>
+<p>Court spokesman Wolfgang Frank said the decision was being sent to the parties involved before being made public.</p>
+<p>The Justice Department had asked for documents on VW production chief Jose Ignacio Lopez de Arriortua and other executives.</p>
+<p>Lopez, a Spaniard, is being investigated by German authorities for allegedly taking along secret documents when he quit General Motors Corp. in 1993 to join VW.</p>
+<p>U.S. prosecutors, who began an investigation shortly after Lopez and three of his associates joined VW, made the request for the German documents more than two years ago.</p>
+<p>VW has fought the document transfer by saying the rights of Lopez and other suspects would be violated and that German courts should have jurisdiction over the overall issue.</p>
+<p>Lopez's German lawyer said earlier in November that he expected German prosecutors in Darmstadt to soon file criminal charges related to industrial spying against his client. Prosecutors have said a decision would be made by year-end.</p>
+<p>If the Frankfurt court complies with the U.S. request for the information, the files could be put before a U.S. grand jury in Detroit that is also investigating the abrupt switch of Lopez and other executives to Volkswagen from GM.</p>
+<p>VW has suffered a series of legal setbacks in recent weeks, including a U.S. district court in Detroit rejecting VW's request for dismissal of the lawsuit, which includes racketeering charges based on organised crime statutes.</p>
+<p>In addition to Lopez, the U.S. lawsuit filed by GM names, among others, VW Chairman Ferdinand Piech.</p>
+<p>The Detroit federal court is scheduled to issue a written decision by Nov. 26 on the inclusion of the racketeering charges, which are based on statutes initially used to fight the organised crime and whose use has been expanded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

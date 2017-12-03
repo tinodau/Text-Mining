@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619738" id="root" date="1997-05-28" xml:lang="en">
+<title>RUSSIA: Russia tries official for spying for Britain.</title>
+<headline>Russia tries official for spying for Britain.</headline>
+<dateline>MOSCOW 1997-05-28</dateline>
+<text>
+<p>A former Russian defence industry official went on trial in Moscow on Wednesday charged with spying for Britain, Russian news agencies said.</p>
+<p>Vadim Sintsov, former director of foreign economic relations at the Special Machine-Building and Metallurgy firm is charged with &quot;treason and receiving especially large bribes&quot;, they said.</p>
+<p>In London, a British Foreign office spokesman refused to give any reaction, saying: &quot;We never comment on intelligence matters&quot;.</p>
+<p>Lintsov was arrested in January, 1994, on &quot;incontrovertible evidence&quot; that he had been recruited by the British security services, the agencies said, quoting the Federal Security Service (FSB), successor organisation to the KGB.</p>
+<p>&quot;An investigation by the chief military prosecutor established that, having been recruited by the British, Vadim Sintsov collected and handed over state secrets, damaging Russia's defence capabilities, state security and economic interests,&quot; Itar-Tass news agency said.</p>
+<p>Sintsov is also charged with receiving bribes from representatives of various foreign firms, the agencies said, quoting investigation materials.</p>
+<p>The judge presiding over the case at the military board of the Russian Supreme Court, Major General Lev Zakharov, said the case would last for more than a week because of the weight of evidence to be heard.</p>
+<p>If convicted, Lintsov would face a sentence of between 12 and 20 years in jail.</p>
+<p>Espionage still goes on actively between Russia and her former foes, despite the end of the Cold War. The FSB has said it exposed 400 foreign agents and 39 Rusian spies in 1995 and 1996 alone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

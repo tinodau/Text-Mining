@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202525" id="root" date="1996-11-20" xml:lang="en">
+<title>ECUADOR: Ecuador central bank head says IMF likes reforms.</title>
+<headline>Ecuador central bank head says IMF likes reforms.</headline>
+<dateline>QUITO 1996-11-20</dateline>
+<text>
+<p>The head of Ecuador's central bank said Wednesday the International Monetary Fund has expressed its support of planned economic reforms.</p>
+<p>&quot;They are very impressed by the reforms we are looking at,&quot; Augusto de la Torre, general manager of the central bank, told Reuters. &quot;The plan includes ambitious reforms. There is nothing the IMF can oppose.&quot;</p>
+<p>He added that the IMF technical analysts expressed no objections to the part of the government's plan to peg the sucre to the dollar, because &quot;the IMF wants to give its support.&quot;  </p>
+<p>Finance Minister Pablo Concha said on Monday the government's economic plan due to be released on Sunday will include the introduction of a convertibility plan.</p>
+<p>De la Torre explained that the IMF is interested in the proposed fiscal discipline, and in economic reforms that will foster growth.</p>
+<p>The central bank head's statements came a day after a government official said that some IMF personnel had opposed the fixed exchange rate plan because Ecuador will not be able to sustain such a regime.</p>
+<p>Ecuador has a fiscal deficit of four percent of gross domestic product and is expected to have an inflation rate of 18 percent and four percent economic growth next year.</p>
+<p>-- Gustavo Oviedo, Quito Newsroom, 5932 258433</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

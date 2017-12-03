@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234565" id="root" date="1996-12-04" xml:lang="en">
+<title>GERMANY: Prosecutor sees year-end decision on Lopez charges.</title>
+<headline>Prosecutor sees year-end decision on Lopez charges.</headline>
+<dateline>FRANKFURT 1996-12-04</dateline>
+<text>
+<p>A German public prosecutor said on Thursday that a decision on whether to file criminal charges against a former Volkswagen AG executive on industrial spying allegations will be made some time in mid-December.</p>
+<p>Herbert Spohn, a spokesman for the Darmstadt public prosecutors' office near Frankfurt, told Reuters that no decision on whether to file charges against Jose Ignacio Lopez de Arriortua would be made this week.</p>
+<p>But he said prosecutors would hold a news conference &quot;sometime in mid-December&quot; to announce their decision following a three and a half year probe of allegations by rival Adam Opel AG that Lopez and four other associates stole industrial secrets when they left Opel in 1993 for VW.</p>
+<p>Lopez's German lawyer had said he expects the criminal charges to be filed against his client by the end of November.</p>
+<p>Opel and its parent company, U.S.-based General Motors Corp, have also filed a civil lawsuit in the U.S. against Lopez and some top VW executives under the Racketeer Influenced and Corrupt Organisations Act (RICO).</p>
+<p>VW and Lopez have denied the charges.</p>
+<p>--John Gilardi, Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

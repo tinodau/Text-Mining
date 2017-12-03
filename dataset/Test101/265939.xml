@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265939" id="root" date="1996-12-18" xml:lang="en">
+<title>GERMANY: VW, GM to meet soon for talks - report.</title>
+<headline>VW, GM to meet soon for talks - report.</headline>
+<dateline>FRANKFURT 1996-12-18</dateline>
+<text>
+<p>Germany's Volkswagen AG and U.S. General Motors Corp may meet in the next few days in a fourth attempt to resolve their dispute over alleged industrial espionage, the Wall Street Journal Europe reported on Wednesday.</p>
+<p>Citing sources close to GM, the newspaper said talks between the car giants are expected to resume quickly and a settlement might follow soon.</p>
+<p>Officially, VW declined comment and GM said no talks were yet planned, the newspaper said.</p>
+<p>Neither VW nor GM were immediately available when contacted on Wednesday morning by Reuters for separate confirmation of the planned talks.</p>
+<p>VW and GM have been locked in battle over allegations that GM's former purchasing manager Jose Ignacio Lopez de Arriortua stole company secrets when he switched from the U.S. carmaker to VW in 1993.</p>
+<p>Lopez faces a grand jury investigation by prosecutors in Detroit -- proceedings VW hopes to avoid by reaching an out-of court-settlement.</p>
+<p>Attempts to settle have so far failed as VW has not met GM's conditions which are that it sever ties with Lopez, admit wrongdoing and pay damages.</p>
+<p>A German court also last week said it was filing charges against Lopez and three other executives for embezzlement and betrayal of corporate secrets.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

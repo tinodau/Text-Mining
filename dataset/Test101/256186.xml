@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256186" id="root" date="1996-12-13" xml:lang="en">
+<title>GERMANY: Lehman Bros upgrades VW to &quot;outperform&quot;.</title>
+<headline>Lehman Bros upgrades VW to &quot;outperform&quot;.</headline>
+<dateline>FRANKFURT 1996-12-13</dateline>
+<text>
+<p>Lehman Brothers has upgraded its recommendation on German carmaker Volkswagen AG to &quot;outperform&quot; from &quot;neutral&quot;, the bank's Frankfurt office said on Friday.</p>
+<p>Lehman analysts in Frankfurt were unable to give an immediate explanation for the change, which was made by Lehman's London office.</p>
+<p>VW's stock was steady at 600 marks at 1100 GMT, while the broader DAX index was down 1.4 percent at 2,806.37 points.  </p>
+<p>Lehman's car industry analyst in London was unavailable for immediate comment.</p>
+<p>Volkswagen's shares have been volatile recently as the company's legal tussle continued over alleged industrial espionage by its former production chief Jose Ignacio de Arriortua when he switched from General Motors to VW in 1993.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

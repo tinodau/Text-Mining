@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570598" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Ex-U.S. Navy employee pleads guilty in spy case.</title>
+<headline>Ex-U.S. Navy employee pleads guilty in spy case.</headline>
+<dateline>ALEXANDRIA, Va. 1997-05-07</dateline>
+<text>
+<p>Former U.S. Navy intelligence employee Robert Kim pleaded guilty Wednesday to a reduced espionage charge involving the passing of defense information to South Korea last year.</p>
+<p>As part of a plea deal with prosecutors, Kim, 57, who had been a civilian computer specialist with the Navy since 1978, admitted his guilt to conspiring to obtain national defense information that was used by South Korea.</p>
+<p>Asked how he was pleading to the new charge, Kim responded in a clear voice during the brief court hearing, &quot;I'm guilty.&quot;</p>
+<p>Kim had been indicted on three more serious espionage counts in March, charging that he gave or attempted to give seven U.S. national defense documents to a military official at the South Korean embassy.</p>
+<p>The documents involved classified information on North and South Korea, China and a computer maritime tracking system.</p>
+<p>The initial espionage charges carried a maximum penalty of life in prison, but the reduced charge provided for at most a 10-year prison sentence and a $250,000 fine. He also faces between two and three years on probation.</p>
+<p>Under the plea deal, prosecutors agreed to drop the more serious charges.</p>
+<p>U.S. District Judge Leonie Brinkema accepted the guilty plea from the Korean-born Kim, who became a U.S. citizen in 1974. The plea deal spared prosecutors from having to present their case at trial, which had been set to begin in July.</p>
+<p>The judge set sentencing for July 11.</p>
+<p>Kim was arrested in September at a diplomatic reception at Fort Myer, Virginia, and charged with passing classified information to a South Korean Navy captain who worked at the embassy.</p>
+<p>Kim has been in jail since his arrest. He was dismissed from the Navy after his arrest.</p>
+<p>Defense lawyers said that Kim, who received no money for the documents, only wanted to assist South Korea and never intended to hurt the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALEXANDRIA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

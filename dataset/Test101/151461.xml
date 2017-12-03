@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151461" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: U.S. sailor sentenced for attempted espionage.</title>
+<headline>U.S. sailor sentenced for attempted espionage.</headline>
+<dateline>NORFOLK, Va 1996-10-28</dateline>
+<text>
+<p>A sailor was sentenced to 27 years in prison on Monday for attempting to sell U.S. Navy secrets to Russia, a military spokesman said.</p>
+<p>Kurt Lessenthien, a machinist's mate first class, had pleaded guilty in September to attempted espionage and failure to properly safeguard classified material.</p>
+<p>A military panel sentenced 30-year-old Lessenthien to life in prison, but under a pre-trial agreement his term was limited to 27 years, a statement from the Navy said.</p>
+<p>Lessenthien allegedly sold classified material on the Navy's submarine programme in April, but the buyer was an undercover FBI agent. None of the secret material reached foreign hands, investigators said.</p>
+<p>The sentence handed down by a six-member panel of officers will automatically be appealed to military court in Washington, D.C.</p>
+<p>According to local news reports, Lessenthien telephoned the Russian Embassy in Washington from Orlando, Florida where he was an instructor at the Navy's Nuclear Power School. He then offered to trade material on the Navy submarine programme in exchange for cash.</p>
+<p>But the call was intercepted and a team of FBI and Naval Criminal Investigative Service agents teamed up on the case.</p>
+<p>At a subsequent meeting an FBI agent posing as a foreign agent paid Lessenthien an undisclosed sum for what he called top secret documents, the (Virginia) Daily Press said.</p>
+<p>The sailor was arrested in April after the exchange, which was videotaped, and taken to the Norfolk Naval Base. He joined the Navy in 1984 and served on three submarines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORFOLK, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666754" id="root" date="1997-06-17" xml:lang="en">
+<title>TAIWAN: Taiwan firm denies Bristol-Myers spy case.</title>
+<headline>Taiwan firm denies Bristol-Myers spy case.</headline>
+<dateline>TAIPEI 1997-06-17</dateline>
+<text>
+<p>A Taiwan paper company on Tuesday denied FBI charges that its subsidary planned to steal trade secrets from U.S. pharmaceutical giant Bristol-Myers Squibb Co.</p>
+<p>&quot;According to our initial understanding, the allegations are completely groundless and untrue,&quot; a spokesman for Yuen Foong Yu Paper Manufacturing Co Ltd told Reuters.</p>
+<p>The United States Federal Bureau of Investigation (FBI) said on Monday it had arrested an employee of Yuen Foong Paper Co Ltd, a subsidiary of Yuen Foong Yu Paper Manufacturing, and a professor at Taiwan's National Chiao Tung University on charges relating to an alleged plan to steal trade secrets from Bristol-Myers.</p>
+<p>The spokesman, who declined to be identified, said the company was interested in engaging in biotechnology ventures, but denied it intended to steal any trade secrets.</p>
+<p>He said Yuen Foong was approached by a U.S. investment consulting firm, Mano Associated, to discuss possible technology cooperation.</p>
+<p>&quot;We have no idea why our people were charged with being involved in the business spy case,&quot; the spokesman said. &quot;Frankly, we do not know anything about the trade secrets related to Bristol-Myers.&quot;</p>
+<p>&quot;We have hired lawyers to investigate the case.&quot;</p>
+<p>The FBI said in its arrest warrant and a news release that the two men conspired to illegally acquire, through an FBI undercover agent, plant cell culture technology used to make Taxol, a drug used to fight ovarian cancer.</p>
+<p>Arrested were Kai-Lo Hsu, technical director of the Yuen Foong Paper in Taipei and Charles Ho, a professor at the National Chiao Tung University.</p>
+<p>Ho was also described as a co-owner of a Delaware-registered biotechnology firm called Asiapharm.</p>
+<p>The FBI said Hsu was charged with attempted theft of trade secrets, conspiracy to steal trade secrets and other violations. Ho was charged with aiding and abetting inter-state and foreign travel to commit bribery, and conspiracy.</p>
+<p>At a court hearing on Monday afternoon, the two men were ordered held in advance of a bail hearing on Thursday, assistant U.S. attorney Richard Goldberg said.</p>
+<p>Goldberg declined to comment when asked whether the paper company itself was a target in the investigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

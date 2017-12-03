@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177319" id="root" date="1996-11-08" xml:lang="en">
+<title>GERMANY: Prosecutor won't confirm VW's Lopez to be charged.</title>
+<headline>Prosecutor won't confirm VW's Lopez to be charged.</headline>
+<dateline>FRANKFURT 1996-11-08</dateline>
+<text>
+<p>The Frankfurt state prosecutors' office on Friday declined to confirm a newspaper report that it planned to charge Volkswagen AG production chief Jose Ignacio Lopez de Arriortua this month for alleged industrial espionage.</p>
+<p>A spokeswoman for the office said that a decision on whether to charge Lopez would be taken by the end of 1996.  </p>
+<p>Prosecutor won't confirm VW's Lopez to be charged</p>
+<p>&quot;We are not commenting on whether a decision has already been taken to bring charges or to terminate proceedings,&quot; Hildegard Becker-Toussaint, the office's spokeswoman, said in response to a Reuter enquiry.</p>
+<p>Before a decision was made public the parties involved would have to be informed, she added.</p>
+<p>Sueddeutsche Zeitung reported that VW's lawyers expected Lopez and fellow managers Jose Gutierrez, Jorge Alvarez and Rosario Piazza to be charged for allegedly taking secret information with them when they left General Motors Corp to join VW in 1993.</p>
+<p>VW has consistently denied the allegations.</p>
+<p>In a bitter three-year legal dispute, GM and its German subsidiary Opel have alleged that Lopez and seven other former GM managers stole secrets on purchasing and production plans when they moved to VW.</p>
+<p>The Darmstadt public prosecutor's office is directly responsible for the investigation but the Frankfurt office has taken charge of media relations in the case.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

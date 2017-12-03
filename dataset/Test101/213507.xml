@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213507" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: GM declines comment on VW report.</title>
+<headline>GM declines comment on VW report.</headline>
+<dateline>DETROIT 1996-11-25</dateline>
+<text>
+<p>General Motors Corp declined to comment Monday on a published report that a top official has held talks with Volkswagen AG aimed at settling a civil lawsuit that alleges VW officials stole secrets from GM.</p>
+<p>&quot;That's a subject I'm not going to get into,&quot; said GM spokesman John Mueller.</p>
+<p>According to a story in the German magazine Spiegel, VW supervisory board chairman Klaus Liesen met in Detroit with John Smale, chairman of GM's executive committee and the former non-executive chairman of the automaker.  </p>
+<p>VW is seeking an out-of-court settlement, according to the report, because of recent decisions in both civil and criminal courts that have gone against the German automaker.</p>
+<p>GM filed a civil suit in U.S. District Court in Detroit last March, alleging that VW's production chief Jose Ignacio Lopez de Arriortua and several other VW executives stole trade secrets when they left GM for VW in March of 1993.</p>
+<p>In October, U.S. District Judge Nancy Edmunds ruled GM can proceed with its suit in the U.S.  VW had asked to have the suit dismissed.  </p>
+<p>Edmunds also ruled that Lopez, along with VW Chairman Ferdinand Piech and management board member Jens Neumann, should remain defendants in GM's civil lawsuit.</p>
+<p>VW had argued that Piech and Neumann should be dropped from the suit because GM has not provided proof they were directly involved in the alleged events.  GM claims the two men conspired with Lopez to steal secrets, including parts pricing data, future product plans and proprietary manufacturing techniques.</p>
+<p>A spokesman for Edmunds declined to comment Monday on a report that she will issue a ruling Tuesday that allows GM to include charges filed under the Racketeer-Influenced and Corrupt Organizations Act against VW.</p>
+<p>Edmunds heard arguments on that motion in late October. If a jury found VW guilty of violating the so-called RICO statute, it could force VW to pay triple damages.</p>
+<p>Last week, a German court ruled that evidence from a three-year German criminal investigation of Lopez and other former GM workers now at VW could be turned over to the U.S. Justice Department.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196817" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Lie-detector, money trail led to accused CIA spy.</title>
+<headline>Lie-detector, money trail led to accused CIA spy.</headline>
+<byline>James Vicini</byline>
+<dateline>WASHINGTON 1996-11-18</dateline>
+<text>
+<p>The CIA became suspicious of an employee who now faces charges of spying for Russia after he showed deception on lie-dectector tests and after it was discovered he had taken unexplained trips and made mysterious bank deposits.</p>
+<p>At at news conference at FBI headquarters Monday on the arrest of CIA officer Harold Nicholson, John Deutch, the director of central intelligence, said polygraph tests given the accused spy in late 1995 played a role in the case.</p>
+<p>&quot;There was a whole series of analysis that was woven together of which the polygraph is a single important thread,&quot; Deutch said. &quot;I don't want to belittle the polygraph. But ... I think it's incorrect to look at the polygraph as being the essential element here.</p>
+<p>&quot;The analysis was complicated and it involved the simultaneous attention to a number of variables -- money, travel, security. So, I would not say that the polygraph was the initiating piece.&quot;</p>
+<p>FBI agent Michael Lonergan said in a 31-page affidavit that Nicholson, a 16-year CIA veteran who had access to highly sensitive secrets, had been given two polygraph tests in October 1995 as part of a routine security update.</p>
+<p>The exams found a strong probabilty Nicholson had been lying when asked if he was hiding involvement with or had any unauthorised contact with a foreign intelligence service. His alleged spying began in June 1994.</p>
+<p>During a third test in December 1995, the CIA examiner noted Nicholson appeared to be trying to manipulate the test by taking deep breaths before certain questions. The FBI agent said Nicholson stopped after a warning.</p>
+<p>In building the case, Lonergan said the FBI reviewed Nicholson's frequent-flyer records, financial records from 1994 through early 1996 and information furnished by the CIA.</p>
+<p>&quot;The FBI uncovered a pattern of twice-yearly foreign travel, followed by unexplained deposits and payments to Nicholson's accounts,&quot; he said,</p>
+<p>The unexplained deposits, which followed trips abroad and an unauthorised meeting with Russian intelligence officers, totalled $120,000, Lonergan said.</p>
+<p>&quot;The FBI has been unable to trace the source of this money to any legitimate source of income,&quot; he said.</p>
+<p>FBI officials also intercepted postcards Nicholson mailed to his handlers, recovered classified information from his laptop computer, observed him photocopying classified documents and found in his office numerous classified documents about Russia that were unrelated to his CIA duties.</p>
+<p>Lonergan said an audit in July of CIA computer information showed Nicholson was using his computer to conduct searches of databases for information on Russia.</p>
+<p>&quot;This unauthorised activity led the CIA computer security personnel to list Nicholson as a 'surfer',&quot; the agent said.</p>
+<p>Among the information the FBI believes Nicholson may have compromised were listings of CIA case officers posted abroad, including agents Nicholson may have instructed at a CIA special training centre.</p>
+<p>Nicholson has held posts in Romania and Malaysia and as an instructor at the CIA's training centre in Virginia teaching espionage tradecraft to agency personnel. He was most recently working in anti-terrorism.</p>
+<p>Lonergan said Nicholson may have given Moscow information summarizing what was obtained in the debriefing of Aldrich Ames -- another CIA employee who admitted spying for Moscow after being arrested in 1994.</p>
+<p>Lonergan's affidavit was filed in federal court in Alexandria, Virginia, a Washington suburb. CIA headquarters is at Langley, another Virginia suburb of the capital.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

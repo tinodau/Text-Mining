@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="388242" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: GM knows of no employees in bribery probe.</title>
+<headline>GM knows of no employees in bribery probe.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1997-02-19</dateline>
+<text>
+<p>General Motors Corp executives said Wednesday that they are not aware of any involvement by current GM employees in an investigation of alleged kickbacks demanded by former Volkswagen AG production chief J. Ignacio Lopez de Arriortua and his followers.</p>
+<p>GM Chairman Jack Smith said the company was asked by the U.S. investigators to look at certain supplier contracts following Volkswagen's decision to seek criminal charges Friday relating to alleged kickbacks demanded from Swiss-Swedish engineering group ABB.  </p>
+<p>GM is cooperating with the request from the Justice Departent investigators.</p>
+<p>&quot;We don't know anything about that other than that this has surfaced in this Volkswagen-ABB transaction, and so as I understand it we've been asked to look at what happened inside GM,&quot; Smith said in a news conference following a speech to the Economic Club of Detroit.</p>
+<p>Reports in Germany over the weekend suggested that VW and GM may have been linked in a so-called &quot;network&quot; of purchasing managers who allegedly demanded kickbacks on contracts.  </p>
+<p>But a source familiar with the U.S. investigation said the request made to GM was considered an extension of the U.S. Justice Department's criminal investigation of Lopez and his followers and did not involve any current GM employees.</p>
+<p>GM's purchasing chief, Harold Kutner, earlier on Wednesday told Reuters that none of his staff was known to be involved in the probe.  &quot;I have no knowledge of any General Motors employees being involved in that,&quot; Kutner told Reuters at a parts supplier conference here.</p>
+<p>&quot;I don't know about what went on during the Lopez era,&quot; he added.  </p>
+<p>Kutner replaced Lopez as GM's head of worldwide purchasing after Lopez and several of his followers abruptly left GM in 1993 to join Volkswagen.</p>
+<p>Lopez and three others face criminal charges in Germany over allegations that they stole confidential documents from GM and its Adam Opel AG subsidiary in Germany when they joined Volkswagen, including documents on GM supplier prices.</p>
+<p>A similar investigation by the U.S. Justice Department is continuing, but no charges have been filed.</p>
+<p>Smith said GM instituted a strict new ethics policy last year to help prevent wrongdoing by employees.  </p>
+<p>The policy clearly spells out unethical behavior and contains strict prohibitions on employees accepting gifts and meals from suppliers.</p>
+<p>But he admitted that the policy is not foolproof.</p>
+<p>&quot;If somebody really wants to cheat and steal, that won't stop them,&quot; Smith said. &quot;Then we've obviously hired the wrong person.&quot;</p>
+<p>Asked if hiring Lopez ultimately turned out to be a mistake for GM, Smith declined comment.  Lopez, who left Volkswagen late last year before German charges were filed against him, was credited with helping to dramatically lower purchasing costs for both automakers in the 1980s and '90s.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222027" id="root" date="1996-11-27" xml:lang="en">
+<title>GERMANY: Zwickel expects no VW decision on Lopez.</title>
+<headline>Zwickel expects no VW decision on Lopez.</headline>
+<dateline>WOLFSBURG, Germany 1996-11-27</dateline>
+<text>
+<p>A Volkswagen AG supervisory board member said late on Tuesday he did not expect a decision to be made at a meeting this week on the future of a manager at the centre of a legal fight with rival Opel AG.</p>
+<p>Klaus Zwickel, who is also chairman of Germany's IG Metall union, said it was unlikely that a decision would be made by the board about Jose Ignacio Lopez de Arriortua.</p>
+<p>Lopez is under investigation in the U.S. and Germany for allegedly taking along secret documents when he abruptly left Opel, a unit of General Motors Corp, in 1993 and joined the management board of VW in charge of production.</p>
+<p>VW's supervisory board is scheduled to meet on Friday.</p>
+<p>Zwickel also said he was unaware of any secret talks between VW and GM to reach an out-of-court settlement on a U.S. civil lawsuit filed by GM against the Wolfsburg-based carmaker.</p>
+<p>Industry sources say VW is under pressure to settle the lawsuit after a U.S. federal judge on Tuesday denied Volkswagen AG's motion to dismiss racketeering claims by GM, opening VW to potentially higher damages in a jury trial verdict.</p>
+<p>GM claims the stolen documents, which included information on future product plans, parts prices and manufacturing techniques, unfairly allowed VW to reduce its costs, causing GM unspecified financial damage.</p>
+<p>Under the racketeering law, known as RICO, GM has claimed that Volkswagen, Lopez, VW chairman Ferdinand Piech and other top executives participated in a conspiracy to steal the documents and transport them to Germany.</p>
+<p>In addition to the civil lawsuit, Lopez's lawyer said he expected German prosecutors to file criminal charges against his client by the end of November.</p>
+<p>A U.S. grand jury is also investigating Lopez and a Frankfurt appellate court last Friday approved sending documents from the German probe to U.S. prosecutors.</p>
+<p>--John Gilardi, Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

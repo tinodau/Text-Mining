@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256654" id="root" date="1996-12-13" xml:lang="en">
+<title>GERMANY: Prosecutor charges Lopez, 3 other ex-GM staff.</title>
+<headline>Prosecutor charges Lopez, 3 other ex-GM staff.</headline>
+<dateline>DARMSTADT, Germany 1996-12-13</dateline>
+<text>
+<p>German prosecutors said on Friday they had filed criminal charges against four former General Motors Corp executives who allegedly stole secret documents when they quit the U.S. carmaker in 1993 to join rival Volkswagen.</p>
+<p>The Darmstadt public prosecutor's office said the charges had been filed against former VW production chief Jose Ignacio Lopez de Arriortua and three other former GM employees identified as Jose Manuel Gutierrez, Rosario Piazza and Jorge Alvarez.</p>
+<p>The four were officially charged on December 6 under allegations of embezzlement and betrayal of corporate secrets, the prosecutor's office said in a statement.  </p>
+<p>Prosecutor charges Lopez, 3 other ex-GM staff</p>
+<p>The prosecutor's office said its investigation showed that Lopez and the others had taken documents from GM and its German subsidiary Adam Opel AG.</p>
+<p>It said the documents involved plans for a factory called &quot;Plant X&quot; in Spain, pricing data for European production and cost data for GM and Opel vehicles as well as documents for a new car being developed by GM called the &quot;O-Car.&quot;</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DARMSTADT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250422" id="root" date="1996-12-11" xml:lang="en">
+<title>GERMANY: VW says to extend Piech contract.</title>
+<headline>VW says to extend Piech contract.</headline>
+<dateline>WOLFSBURG, Germany 1996-12-11</dateline>
+<text>
+<p>Volkswagen AG will extend the contract of VW management board chairman Ferdinand Piech and will not be making any personnel changes after criminal charges were filed against four current or former VW employees, VW supervisory board chairman Klaus Liesen said on Wednesday.</p>
+<p>Liesen told Reuters there was no doubt the supervisory board would extend Piech's contract at a meeting scheduled for March. Piech's contract is due to expire at the end of 1997.  </p>
+<p>General Motors Corp, which has alleged that eight current or former VW employees took along secret documents when they left GM to join VW in 1993, said earlier that German prosecutors had told the carmaker that criminal charges have been filed against the former employees.</p>
+<p>The public prosecutors' office in Darmstadt near Frankfurt also said on Wednesday it would file charges against one of the executives involved in the dispute and that it would hold a news conference on Friday.</p>
+<p>VW spokesman Klaus Kocks added there was no connection between legal charges made on Wednesday and current jobs held by former GM executives.</p>
+<p>&quot;There is therefore no need for discussion,&quot; Kocks said.</p>
+<p>--Frankfurt Newsroom + 49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

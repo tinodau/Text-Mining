@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738792" id="root" date="1997-07-18" xml:lang="en">
+<title>ROMANIA: Romania seeks information from Swiss on spy case.</title>
+<headline>Romania seeks information from Swiss on spy case.</headline>
+<dateline>BUCHAREST 1997-07-18</dateline>
+<text>
+<p>Romania has offered to help clear up a potentially damaging spy scandal involving Switzerland, the Foreign Ministry said on Friday.</p>
+<p>It has asked Berne for details of the case of a Swiss diplomat arrested over accusations of spying for the former communist country.</p>
+<p>&quot;Romania's image and international prestige have been marred by its supposed involvement in a case of spying against a friendly country,&quot; a ministry statement said.</p>
+<p>On Wednesday, Berne prosecutors said they had taken a Swiss diplomat into custody over accusations of handing over secret political and economic data to Romanian intelligence as well as information about people wanted by police.</p>
+<p>The Swiss federal prosecutor's office said the diplomat had confessed to espionage.</p>
+<p>On Thursday, Romania's top spy agencies -- the Foreign Intelligence Service (SIE) and spy-catchers Romanian Intelligence Service (SRI) -- denied involvement in the case.</p>
+<p>The SRI, which replaced the dreaded Communist-era Securitate secret police, is the only intelligence body subject to parliamentary control, from a dozen intelligence units created in Romania after thre 1989 fall of communism.</p>
+<p>The ruling centrists, who ended seven years of leftist administration at last year's presidential and parliamentary elections, have vowed to step up efforts to bring the country's intelligence bodies under full democratic control.</p>
+<p>The Swiss diplomat's arrest follows another embarrassing incident last year, when Berne recalled its ambassador to Bucharest for an official probe into accusations that his Romanian lover was a spy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

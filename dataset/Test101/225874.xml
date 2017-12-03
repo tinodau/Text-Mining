@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225874" id="root" date="1996-11-29" xml:lang="en">
+<title>GERMANY: No comment yet on Lopez successor - spokesman.</title>
+<headline>No comment yet on Lopez successor - spokesman.</headline>
+<dateline>WOLFSBURG, Germany 1996-11-29</dateline>
+<text>
+<p>German carmaker Volkswagen AG said on Friday it had no comment to make as yet on a successor to Jose Ignacio Lopez, who resigned earlier in the day.</p>
+<p>Asked by Reuters Television whether a decision had been reached on a successor to Lopez, Volkswagen spokesman Klaus Kocks said: &quot;We don't want to make any further statement at present because the supervisory board chairman is ready to hold further talks this afternoon.&quot;</p>
+<p>Kocks did not elaborate further.</p>
+<p>Lopez has been at the centre of a three-year row between VW and General Motors and has been accused of industrial espionage.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

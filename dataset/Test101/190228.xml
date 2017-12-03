@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190228" id="root" date="1996-11-14" xml:lang="en">
+<title>GERMANY: Top German prosecutor warns firms about espionage.</title>
+<headline>Top German prosecutor warns firms about espionage.</headline>
+<byline>Andrew Gray</byline>
+<dateline>DUESSELDORF, Germany 1996-11-14</dateline>
+<text>
+<p>Germany's top prosecutor has warned companies they must tighten security precautions in the face of industrial espionage from Russia and eastern Europe which is costing them billions of dollars a year.</p>
+<p>Federal Prosecutor Kay Nehm said the end of the Cold War had reduced military and political tension between east and west but foreign intelligence services were more active than ever in trying to steal secrets from German companies.</p>
+<p>&quot;The military confrontation has been resolved but the industrial situation remains largely unchanged,&quot; he told an audience of lawyers in Duesseldorf on Wednesday night.</p>
+<p>Nehm said one study had put the damage done to German industry by espionage at around eight billion marks ($5.31 billion) annually -- an estimate he called &quot;very conservative&quot;.</p>
+<p>He said many foreign intelligence services were concentrating on industrial espionage to justify their continued existence as it offered considerable financial rewards. He singled out Russia as an example.</p>
+<p>&quot;To try to hold onto their power and to increase it, Russian intelligence services are moving into new fields -- fields which pay for themselves,&quot; he said.</p>
+<p>The risks run by the classic agents of the past -- locating and then stealing or copying material and passing it on to a contact -- have largely disappeared in the high-technology world of espionage in the 1990s.</p>
+<p>&quot;All these things can now be done at the touch of a button,&quot; Nehm said.</p>
+<p>He warned small and medium-sized firms that it was not just the industrial giants who were being targeted by foreign spies.</p>
+<p>&quot;All sectors are at risk -- and not just the big companies but the smaller ones too,&quot; he said. &quot;This is particularly the case because security precautions in these firms are often less developed, especially when it comes to data processing.&quot;</p>
+<p>Nehm singled out Russia and eastern Europe as the biggest threat but added the rapidly-growing economies of southeast Asia and communist countries such as North Korea and China were also interested in getting their hands on German know-how.</p>
+<p>Agents are not just interested in research which may have cost millions of marks to develop but also in general company strategy and competitors' bids for contracts being tendered.</p>
+<p>To infiltrate their targets, foreign intelligence services were placing agents in international organisations, setting up joint-ventures with German companies and even setting up bogus companies of their own, Nehm said.</p>
+<p>He warned business leaders to be particularly wary of former diplomats or people who used to work for foreign secret services as they often had the language skills and knowledge of Germany that made excellent agents.</p>
+<p>&quot;This is not just a matter for individual companies but one which concerns the economic strength of the nation,&quot; he said. ($1=1.5059 Mark)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUESSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

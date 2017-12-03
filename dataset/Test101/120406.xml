@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120406" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: US judge denies VW move to dismiss GM suit.</title>
+<headline>US judge denies VW move to dismiss GM suit.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1996-10-16</dateline>
+<text>
+<p>A federal judge dealt a major blow to Volkswagen AG Wednesday, denying a motion from the German automaker to dismiss a lawsuit filed by General Motors Corp accusing VW and several of its top executives of stealing corporate secrets.</p>
+<p>U.S. District Judge Nancy Edmunds made the ruling after rejecting arguments from Richard Denvir, an attorney representing VW. Denvir said the lawsuit should be dismissed because it duplicates cases in Germany, is mostly a European matter and would be inconvenient for the majority of witnesses, who live in Germany and other parts of Europe.</p>
+<p>&quot;This case does uniquely belong here in Detroit,&quot; Edmunds said. &quot;I believe there will be inconviences to some witnesses, regardless of where the case is tried. I don't see the balance of hardship leaning strongly one way or the other.&quot;</p>
+<p>GM filed its lawsuit in U.S. District Court here last March. GM alleges VW's top production chief, Jose Ignacio Lopez de Arriortua, and several other executives stole trade secrets, including product plans, parts purchasing information and plans for a super-efficient manufacturing concept when they defected to VW in March 1993.</p>
+<p>Lopez had been GM's top purchasing executive when he abruptly left to join the German automaker, setting in motion the now three-year saga. Edmunds ruling could mean that top VW executives, including Chairman Ferdinand Piech, could be put on trial in the heart of the American automotive capitol.</p>
+<p>Attorney Eugene Driker, who represented GM, told Edmunds Volkswagen sought to have the case dismissed because the German automaker wants to avoid having its executives testify under oath in a U.S. court.</p>
+<p>Driker also argued the case concerned GM's most closely guarded corporate secrets, and not just issues involving GM's Adam Opel AG unit.</p>
+<p>The lawsuit alleges Lopez, Piech and other defendants set up an elaborate operation to copy GM information into VW computers and then shredded the documents.</p>
+<p>GM says the Plant X concept, in which outside suppliers take a greater role in vehicle assembly, was used in a new VW plant in Brazil.</p>
+<p>Volkswagen has denied the allegations.</p>
+<p>Edmund's ruling clears the way for another hearing Oct. 28 to determine whether GM's claims of racketeering, copyright infringement and trademark violations should be included in a trial of the case.</p>
+<p>GM had difficulty serving the lawsuit to Lopez, who has avoided the United States since he left GM. But GM process servers caught up with him at a VW executive meeting in Vancouver, Canada, in June and served him with the lawsuit as he used a telephone in a hotel lobby.</p>
+<p>GM also will ask Edmunds whether it can mail the lawsuit to three of the 11 defendants in the action who have not yet been served -- VW executives Jorge Alvarez, Rosario Piazza and Andre Versteeg.</p>
+<p>VW, subject to continuing criminal investigations in both Germany and the United States, sued GM and its Adam Opel AG unit for defamation in a German court in May, claiming GM made false accusations against VW. A decision in that case is expected Oct. 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

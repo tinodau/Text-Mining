@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594904" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: GM develops low-cost small car for Brazil.</title>
+<headline>GM develops low-cost small car for Brazil.</headline>
+<dateline>DETROIT</dateline>
+<text>
+<p>General Motors Corp. plans to build a new low-cost car in Brazil that would sell for about $9,000 and use super-efficient production techniques, industry analysts and published reports said Monday.</p>
+<p>GM's new car, code-named &quot;Blue Macaw,&quot; is expected to undercut the $11,000 price of Ford Motor Co.'s new Ka small car in Brazil, and the Fiat SpA's Uno, currently the country's cheapest car at $10,000.</p>
+<p>The Wall Street Journal and the trade weekly Automotive News quoted GM officials in Brazil as saying that the new car will be built in a new, $600 million assembly plant that GM is building in southern Brazil.</p>
+<p>With a such a low price, GM hopes the car will open up a whole new market of consumers who previously could not afford to buy cars and trucks, the reports said.</p>
+<p>In addition to the GM assembly line, the plant will house about 20 outside suppliers who will build parts for the vehicle. Many of the concepts used were first developed by J. Ignacio Lopez de Arriortua, the former GM purchasing chief who was accused of industrial espionage when he quit and joined Volkswagen AG in 1993.</p>
+<p>Plans for Lopez' so-called &quot;Plant X&quot; were among the alleged documents that GM accused him of stealing and bringing to VW. The German automaker has built a plant using similar techniques in Resende, Brazil.</p>
+<p>GM officials in Detroit declined to comment on the reports and referred calls to the automaker's public relations office in Brazil, which did not return telephone calls Monday.</p>
+<p>GM is hosting hundreds of supplier executives in Rio de Janeiro for its annual &quot;Supplier of the Year&quot; awards ceremonies.</p>
+<p>Michael Robinet, an automotive consultant with CSM Forecasting in Farmington Hills, Mich., said the &quot;Blue Macaw&quot; vehicle is based on GM's next-generation Opel Corsa platform. He described as a &quot;stripped-down Corsa&quot; with a 1-litre engine.</p>
+<p>&quot;This will meet the Ka on its own turf,&quot; said Robinet, who researches new product programmes for automotive suppliers.</p>
+<p>Ford's Ka is based on the European Fiesta platform, which the company also is starting to produce in Brazil.</p>
+<p>Automotive News quoted Marcos Munhoz, GM's director of materials management, as saying that outside suppliers will build all of the car's major components except the engine, transmission and the exterior body panels. GM workers will fabricate the body, paint it and perform final assembly.</p>
+<p>The Journal said global volumes of such a small car could reach 1 million units as GM expands into developing countries.</p>
+<p>&quot;When you think about emerging markets like China, India and Central Europe, at this price point, you could get into that level of volume,&quot; Mark Hogan, GM's director of small car development, told the newspaper.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

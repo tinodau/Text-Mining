@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345736" id="root" date="1997-01-30" xml:lang="en">
+<title>GERMANY: VW suspends worker in ABB probe.</title>
+<headline>VW suspends worker in ABB probe.</headline>
+<dateline>WOLFSBURG, Germany 1997-01-30</dateline>
+<text>
+<p>Volkswagen AG, heading toward a fresh legal dispute, said on Thursday it had suspended a purchasing department manager as part of an internal probe into bribery allegations at the German carmaker.</p>
+<p>VW spokesman Klaus Kocks said the employee, who was not identified, was suspended after the Wolfsburg-based carmaker said it found irregularities in contracts for the expansion of a paint factory at VW's Czech subsidary, Skoda Automobilova AS.</p>
+<p>Kocks said evidence from the employee's office has been secured but that a decision on whether to dismiss the employee would be made at the end of the investigation.</p>
+<p>VW started the probe after media reports said VW employees had demanded and received about 10 million marks in bribes relating to a contract awarded to Swiss-Swedish group ABB Asea Brown Boveri Ltd reported to be worth some 400 million marks.</p>
+<p>The VW investigation began just a week after VW settled a bitter three year legal battle with rival General Motors Corp and its German unit, Adam Opel AG, over allegations of industrial spying by a former top VW executive.</p>
+<p>GM and VW settled their dispute over GM's allegations that Jose Ignacio Lopez stole secret documents on parts prices, production plans and designs for future cars when he abruptly quit Detroit-based GM to join VW in March 1993.</p>
+<p>ABB last Friday said it has already contacted Swiss prosecutors and would also talk with German prosecutors. VW's Kocks said the carmaker had been informed of ABB's move and had supported it fully.</p>
+<p>VW sources have said some 100 million marks of the total 400 million marks in costs for the Czech plant was being disputed by ABB, including the alleged 10 million marks in bribes.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

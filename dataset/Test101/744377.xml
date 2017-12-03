@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744377" id="root" date="1997-07-21" xml:lang="en">
+<title>INDONESIA: Indonesian ferry sinks off Sulawesi killing 13.</title>
+<headline>Indonesian ferry sinks off Sulawesi killing 13.</headline>
+<dateline>JAKARTA 1997-07-21</dateline>
+<text>
+<p>At least 13 people were drowned when a small Indonesian ferry said to be carrying more than twice its maximum load sank off the island of South Sulawesi, the Jakarta Post reported on Monday.</p>
+<p>The newspaper said 11 people were injured, five seriously, when the nine metre (30 foot) long Sumber Jaya ferry sank on Sunday at the mouth of the Pangkajene river, about 60 km (40 miles) north of the South Sulawesi provincial capital of Ujung Pandang.</p>
+<p>It quoted local police chief Lieutenant-Colonel Haryogo as saying the accident was probably caused by overloading.</p>
+<p>&quot;The ship's capacity was only 20 to 25 people,&quot; he said.</p>
+<p>The Jakarta Post estimated the Sumber Jaya was carrying 50 passengers at the time of the accident. A number of people are still missing, it added.</p>
+<p>Survivors said the boat ran into rough waters while travelling from Laiya island to the town of Pangkep.</p>
+<p>The incident was the latest in a string of accidents raising concerns about the safety of public transport in Indonesia.</p>
+<p>Last week an overloaded ferry capsized on Lake Toba in North Sumatra, drowning at least 82 people, and a Fokker F-27 aircraft crashed near Bandung, killing 30 passengers and crew.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

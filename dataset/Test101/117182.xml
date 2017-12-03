@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117182" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: GM says to leave VW dispute to courts.</title>
+<headline>GM says to leave VW dispute to courts.</headline>
+<dateline>DETROIT 1996-10-15</dateline>
+<text>
+<p>General Motors Corp, responding to reports that Volkswagen AG hired former political consultant Dick Morris to help in a public relations battle with GM, said it will rely on a jury to decide the matter.</p>
+<p>&quot;We remain committed to presenting our case to a jury, not focusing on how best to put a particular spin on events for the media,&quot; GM said in a statement read by GM spokesman John Mueller.</p>
+<p>The International Herald-Tribune said Morris, who resigned from President Clinton's campaign following newspaper reports that he had an affair with a prostitute, had been retained to help VW in its public relations battle with the world's largest automaker.</p>
+<p>GM sued VW last March, alleging VW production chief Jose Ignacio Lopez de Arriortua and several other top VW executives stole product and purchasing secrets when they left GM to work at VW in 1993.</p>
+<p>VW has denied the claims, and filed a countersuit against GM. A federal district court judge in Detroit is scheduled to hear motions from VW to remove the suit on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

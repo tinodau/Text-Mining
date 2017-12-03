@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255018" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Lopez asks for delay in GM civil suit.</title>
+<headline>Lopez asks for delay in GM civil suit.</headline>
+<dateline>DETROIT 1996-12-13</dateline>
+<text>
+<p>Lawyers representing Jose Ignacio Lopez de Arriortua on Friday asked a U.S. federal judge to delay General Motors Corp's lawsuit so he can concentrate on defending himself against criminal charges in Germany.</p>
+<p>German prosecutors charged Lopez and three others on December 10 with misappropriating trade secrets from GM and its Adam Opel AG unit.</p>
+<p>GM filed a civil lawsuit alleging Lopez and several others stole confidential documents when they defected to Volkswagen AG in March 1993.  </p>
+<p>In addition to Lopez, attorneys asked for a delay in GM's suit against one of the other defendants, Jose Manuel Gutierrez.  Both Lopez, who was VW's purchasing chief, and Gutierrez, have resigned from Volkswagen to prepare their defense in the criminal charges.</p>
+<p>Attorneys argued the two will face &quot;tremendous prejudice&quot; if they have to defend themselves against both the German criminal and GM civil charges at the same time.  Because the criminal and civil claims are similar, the two will be unable to respond to most, if not all, of GM's allegations because of the risk of incriminating themselves, the motion said.  </p>
+<p>&quot;Lopez and Gutierrez have a constitutional right not to be compelled to furnish the government with even a 'link in the chain of evidence' which might ultimately be used against them, either directly or circumstantially, in a criminal proceeding,&quot; the motion says.</p>
+<p>Attorneys for the two said Lopez and Gutierrez also face a &quot;real possibility&quot; of criminal charges in the U.S.</p>
+<p>If U.S. District Judge Nancy Edmunds denied the motion to stay the case, attorneys asked that she not force Lopez and Gutierrez to return to the U.S. to give sworn statements, or depositions.</p>
+<p>Attorneys said their presence in the U.S. would be irrelevant since Lopez and Gutierrez would refuse to answer questions under their Fifth Amendment right against self-incrimination.</p>
+<p>Moreover, the U.S. Department of Justice could serve them with subpoenas and arrest them if they appeared in Detroit, their lawyers argued.</p>
+<p>&quot;It is a risk they should not be required to assume while German charges are pending and U.S. charges are threatened,&quot; the motion said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="337689" id="root" date="1997-01-28" xml:lang="en">
+<title>YEMEN: World Bank seen willing to give Yemen soft loan.</title>
+<headline>World Bank seen willing to give Yemen soft loan.</headline>
+<dateline>SANAA 1997-01-28</dateline>
+<text>
+<p>The World Bank said it was willing to offer Yemen a soft loan of $60 million to set up a financial market and improve the country's banking system, a central bank official said.</p>
+<p>&quot;Negotiations between the central bank and the World Bank started in Sanaa today (Tuesday) on the establishment of a financial market in Yemen and the enhancement of the banking and monetary system,&quot; the official told Reuters.</p>
+<p>He said the World Bank had already expressed its willingness to offer the loan in addition to providing technical support for the project.</p>
+<p>Yemen, one of the Arab World's poorest countries, has received soft loans from several countries and international organisations under an economic reform plan launched in March, 1995, in agreement with the World Bank and the International Monetary Fund.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

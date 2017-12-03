@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120240" id="root" date="1996-10-16" xml:lang="en">
+<title>TAIWAN: Taiwan businessman says he spied for China.</title>
+<headline>Taiwan businessman says he spied for China.</headline>
+<dateline>TAIPEI 1996-10-16</dateline>
+<text>
+<p>A Taiwan businessman turned himself in to local authorities, claiming he had collected state secrets for the island's rival, China, over the past two years, state media said on Wednesday.</p>
+<p>The businessman, surnamed Chang, told the Bureau of Investigation that he had helped spies from mainland China to collect the island's national defence and foreign policy secrets.</p>
+<p>In return, Beijing helped Chang with his investment projects on the mainland, the reports said.</p>
+<p>&quot;This is the first case this year,&quot; a bureau official said on state television. &quot;Related authorities are closely monitoring similar cases.&quot;</p>
+<p>The bureau declined to give further details.</p>
+<p>The businessman was under investigation for espionage, state media said.</p>
+<p>China has viewed Taiwan as a renegade province since a civil war separated them in 1949. Taiwan has banned all direct official contact with communist China.</p>
+<p>All investment projects must be routed through a third territory, usually Hong Kong.</p>
+<p>Despite the ban, indirect commerce has flourished since the late 1980s when political tensions started to thaw. Some 30,000 Taiwan firms have poured more than US$20 billion into China.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

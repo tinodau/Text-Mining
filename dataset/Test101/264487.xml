@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264487" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Reno to announce FBI spy case involving Russia.</title>
+<headline>Reno to announce FBI spy case involving Russia.</headline>
+<dateline>WASHINGTON 1996-12-18</dateline>
+<text>
+<p>Attorney General Janet Reno and FBI Director Louis Freeh called a news conference Wednesday to announce that an FBI agent has been accused of spying for Russia, federal officials said.</p>
+<p>They said the agent, who worked at the FBI facility in nearby Quantico, Virginia, was arrested on Wednesday.  </p>
+<p>The officials said the suspect, an FBI agent since 1983, worked on national security matters -- catching spies -- at FBI headquarters and at the FBI office in New York. The agent most recently had been transferred to the FBI training facility in Quantico after falling under suspicion, they said.</p>
+<p>It was not known how long the alleged spying had been going on or how serious the damage had been as a result of the classified documents allegedly passed to Moscow.</p>
+<p>The revelation of the new spy case followed the arrest last month of a CIA officer, Harold Nicholson, on charges of spying for Russia.</p>
+<p>The news conference at 2:30 P.M. (1930 GMT) at FBI headquarters will concern &quot;a major development in a significant criminal case,&quot; the FBI and Justice Department said in a brief statement. The two agencies said there also would be an initial appearance in the case at 1 P.M. (1800 GMT) before a federal judge in nearby Alexandria, Virginia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250662" id="root" date="1996-12-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian spies fear growing economic espionage.</title>
+<headline>RTRS-Australian spies fear growing economic espionage.</headline>
+<dateline>CANBERRA 1996-12-11</dateline>
+<text>
+<p>Australia's national intelligence agency is increasingly concerned by economic and technical espionage, although old-fashioned political and military spying is still a worry.</p>
+<p>In its annual report to parliament, tabled on Tuesday, the Australian Security Intelligence Organization (ASIO) said some foreign governments sent agents into Australia with &quot;shopping lists&quot; of information or technology.</p>
+<p>&quot;While a considerable amount of public material is available to them, their activities become of security concern if they engage in deception or cause Australia to be disadvantaged economically or in other ways,&quot; ASIO said.</p>
+<p>The agency started an investigation early this year into the extent Australian scientific information and technology were being targetted by foreign economic espionage.</p>
+<p>During the year it has contacted industry groups, research centres and manufacturing firms, asking whether they knew of or suspected espionage attempts against them.</p>
+<p>It said their responses would help ASIO assess how much economic espionage was happening, and which governments were to blame, for a confidential report to the Australian government.</p>
+<p>ASIO said hostile activity by foreign intelligence agencies could take several forms, including not just espionage but attempts to interfere with Australia's internal politics.</p>
+<p>&quot;Globally, the trend is toward a greater concentration on economic, scientific and technical espionage, although traditional political and military espionage is still attempted,&quot; ASIO said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

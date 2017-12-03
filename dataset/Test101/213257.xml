@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213257" id="root" date="1996-11-24" xml:lang="en">
+<title>GERMANY: VW said seeking out of court settlement with GM.</title>
+<headline>VW said seeking out of court settlement with GM.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>Volkswagen AG is secretly negotiating with General Motors Corp. to reach an out-of-court settlement on charges it engaged in industrial espionage, Germany's Spiegel magazine reported Sunday.</p>
+<p>Spiegel will say in its Monday edition, released in advance, that VW Supervisory Board Chairman Klaus Liesen has met with GM executive John Smale in Detroit to consider a settlement of the legal fight.</p>
+<p>Volkswagen spokesman Klaus Kocks would not comment on the report.</p>
+<p>The case has been centred on VW executive Jose Ignacio Lopez de Arriortua, who has been under investigation for allegedly taking confidential documents from Opel, an unit of GM, and GM itself in 1993 when he joined VW, the largest car maker in Europe.</p>
+<p>The magazine reported that VW was seeking an agreement with GM because recent court decisions related to the case have not gone in its favour and because the German company faces potential judgments against it in the United States totalling billions of dollars.</p>
+<p>VW also thought that American executives would be more willing to reach an agreement than GM and Opel management in Germany, who have been closely involved in the protracted legal battle, the magazine said.</p>
+<p>The report follows a string of court judgments against VW in its legal fight with GM as well as with U.S. authorities who have begun their own independent criminal investigation into the allegations of spying.</p>
+<p>A spokesman for lawyer Juergen Toschke, who is representing Lopez, said Saturday a court had ruled that certain documents must be made available to U.S. authorities if requested by the Federal Bureau of Investigation or the Justice Department.</p>
+<p>The ruling, which was intitially concealed after Friday's court session, applied to a study by auditors KPMG, the protocol of witnesses statements and the statement of the defence, the spokesman said.</p>
+<p>The Justice Department has asked for documents on Lopez and others in a legal fight against VW's rival Opel AG.</p>
+<p>VW has fought the document transfer by saying the rights of Lopez and other people would be violated and that German courts should have jurisdiction over the overall issue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543461" id="root" date="1997-04-28" xml:lang="en">
+<title>HUNGARY: VW ups Slovak car output 6.0 pct in March.</title>
+<headline>VW ups Slovak car output 6.0 pct in March.</headline>
+<dateline>BUDAPEST 1997-04-28</dateline>
+<text>
+<p>German automaker Volkswagen AG increased its car assembly in Slovakia by 6.0 percent to 2,955 units in March 1997 from 2,785 units in March 1996, according to information the company provided to Reuters.</p>
+<p>CAR ASSEMBLY</p>
+<p>--------------------------------------------------------------</p>
+<p> YEAR-ON-YEAR	    MARCH 1997	MARCH 1996    PCT CHANGE</p>
+<p> VW Golf			  2,955	     2,244	     +32</p>
+<p> VW Passat			    0		 541	    -100</p>
+<p> TOTAL			    2,955	     2,785		+6</p>
+<p>--------------------------------------------------------------</p>
+<p> YEAR-TO-DATE		    1997		1996    PCT CHANGE</p>
+<p> VW Golf			  9,661	     6,432	     +50</p>
+<p> VW Passat			    0	     1,597	    -100</p>
+<p> TOTAL			    9,661	     8,029	     +20</p>
+<p>--------------------------------------------------------------</p>
+<p>NOTE - VW assembles cars in Slovakia at its subsidiary Volkswagen Bratislava SPOL SRO, where partly-built models arrive in kits from VW in Germany.</p>
+<p>VW Bratislava, which expects to assemble roughly 30,000 cars this year, increased its output 53 percent to 30,147 units in 1996 from 19,688 units in 1995.</p>
+<p>VW has invested over 750 million Slovak crowns in VW Bratislava, which also manufacturers gearboxes and transmission parts for all VW brands, including Audi, SEAT and Skoda.</p>
+<p>-- Ryan Tutak, Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

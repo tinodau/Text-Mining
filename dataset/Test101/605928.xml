@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="605928" id="root" date="1997-05-22" xml:lang="en">
+<title>GERMANY: German police step up VW bribe probe.</title>
+<headline>German police step up VW bribe probe.</headline>
+<dateline>BRAUNSCHWEIG, Germany 1997-05-22</dateline>
+<text>
+<p>German authorities investigating allegations workers at carmaker Volkswagen AG demanded and received bribes in return for contracts said on Thursday they had collected &quot;wide-ranging documents&quot;.</p>
+<p>Public prosecutors in Braunschweig, near VW's Wolfsburg headquarters, said the documents were collected in searches of 14 offices and homes throughout Germany in the past three days.</p>
+<p>They said they had extended their investigation to cover 12 people, up from two previously identified.</p>
+<p>Swiss-Swedish engineering group ABB has alleged that some VW workers sought and took 20 million marks in return for a factory contract at VW's Czech Skoda unit.</p>
+<p>VW, which itself sought the investigation by Braunschweig prosecutors, reaffirmed on Thursday that it welcomed the probe.</p>
+<p>&quot;We welcome a full and complete investigation of the allegations, whether it be against people inside or outside the corporation,&quot; VW said in a statement.</p>
+<p>ABB alleged last December that a VW employee demanded bribes for the Skoda contract. It refused to pay the disputed costs, prompting both companies to contact German and Swiss prosecutors. -- Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAUNSCHWEIG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

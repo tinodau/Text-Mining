@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321536" id="root" date="1997-01-21" xml:lang="en">
+<title>EGYPT: Egypt extends detention of Israel spy.</title>
+<headline>Egypt extends detention of Israel spy.</headline>
+<dateline>CAIRO 1997-01-21</dateline>
+<text>
+<p>Egypt's state security prosecutors decided on Tuesday to detain for another 30 days an Egyptian who allegedly sold military information to Mossad, the Israeli secret service, security sources said.</p>
+<p>Samir Osman, 47, was arrested and held without charge five months ago, they said.</p>
+<p>Counter-espionage forces have said Osman met Mossad agents in Greece, Turkey and Hungary or by scuba diving to Israel from the border resort of Taba.</p>
+<p>Egyptian government newspapers said Osman had confessed to providing Mossad with information about the Egyptian navy and the place where he served in the Egyptian military.</p>
+<p>An Israeli-Arab textile merchant, Azam Azam, was arrested in November on suspicion of spying for Israel. An alleged Egyptian accomplice is in custody on suspicion of helping Azam and state security officials say they are also looking for two Israeli-Arab women who allegedly recruited him.</p>
+<p>Israel has denied Azam is a spy but Egyptian President Hosni Mubarak insists that he is and has rejected Israeli appeals that the Egyptian authorities release him.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

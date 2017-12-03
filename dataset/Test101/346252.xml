@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="346252" id="root" date="1997-01-31" xml:lang="en">
+<title>UK: Britain's Natwest stops advising Belgrade on debt.</title>
+<headline>Britain's Natwest stops advising Belgrade on debt.</headline>
+<dateline>LONDON 1997-01-31</dateline>
+<text>
+<p>Britain's National Westminster banking group said on Friday it had withdrawn from its role as adviser to the Serbian government on negotiations with its international creditors.</p>
+<p>A spokeswoman said the decision had been made &quot;due to the change in the international climate&quot;, adding there had been recent signs that Belgrade had moved away from commitments to economic liberalisation and democratisation.  </p>
+<p>&quot;We have indicated to the Federal Republic of Yugoslavia that due to the change in the international climate we are unable to proceed with our advisory work with them on sovereign debt negotiations,&quot; the spokeswoman said.</p>
+<p>She said however the group would continue with technical work on the privatisation of Serbia's PTT telecommunications agency.</p>
+<p>The spokeswoman said Serbia had given commitments to greater economic and political liberalism at the time of the Dayton negotiations which brought peace to Bosnia, but added &quot;recent actions by the republic have show a move away from that commitment&quot;.</p>
+<p>Douglas Hurd, who stepped down as British foreign secretary in July 1995, is deputy chairman of National Westminster's NatWest Capital Markets subsidiary, which was advising Serbia on its debt.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

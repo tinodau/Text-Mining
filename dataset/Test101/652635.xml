@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652635" id="root" date="1997-06-11" xml:lang="en">
+<title>ZAMBIA: World Bank's IDA grants $45.5 mln to Zambia.</title>
+<headline>World Bank's IDA grants $45.5 mln to Zambia.</headline>
+<dateline>LUSAKA 1997-06-11</dateline>
+<text>
+<p>The World Bank's International Development Association has granted Zambia SDR 32.6 million ($45.5 million) in credit for the private sector, Commerce and Trade Minister Alfeyo Hambayi said on Wednesday.</p>
+<p>&quot;This facility, which is known as the enterprise development project, is a result of negotiations which have been going on between the Zambian government and the World Bank since 1995,&quot; Hambayi told a news conference.</p>
+<p>The deal would provide investment credit and working capital for exporters and technical support to firms developing business and investment strategies.</p>
+<p>The grant would also provide technical and financial support to financial institutions, non-governmental organisations and business groups.</p>
+<p>It includes about $30 million in long-term investment credit and $10 million in export pre-shipment credit.</p>
+<p>The project also includes a matching grant scheme of $3.5 million to help private firms to restructure and $1.1 million in technical assistance to the central bank, commercial banks and the Export Board of Zambia.</p>
+<p>&quot;This integrated package of financial and institutional support to the private sector is very important as it is expected to stimulate the supply response within the framework of the economic restructuring and reforms currently being undertaken by the government,&quot; Hambayi said.  (SDR=$1.396)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

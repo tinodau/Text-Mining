@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271833" id="root" date="1996-12-21" xml:lang="en">
+<title>GERMANY: VW denies plans to sue GM.</title>
+<headline>VW denies plans to sue GM.</headline>
+<dateline>WOLFSBURG, Germany 1996-12-21</dateline>
+<text>
+<p>German car maker Volkswagen AG, locked in a dispute over industrial espionage with U.S. group General Motors Corp, at the weekend denied planning to file a lawsuit against its rival in the U.S.</p>
+<p>&quot;We have definitely not reached a decision on filing a law suit against GM,&quot; VW spokesman Kurt Ripholz told Reuters in answer to a query, dismissing a report in Saturday's edition of the Sueddeutsche Zeitung that such a suit would be filed soon.</p>
+<p>The two groups are clashing over allegations that GM's former purchasing manager Jose Ignacio Lopez de Arriortua stole company secrets when he switched from GM to VW in 1993.</p>
+<p>Lopez faces a grand jury investigation by prosecutors in Detroit -- proceedings VW hopes to avoid by reaching an out-of-court settlement.</p>
+<p>Attempts at reconciliation have however so far failed as VW has not met GM's conditions, which are that it sever ties with Lopez, admit wrongdoing and pay damages.</p>
+<p>--Svea Herbst-Bayliss, Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287129" id="root" date="1997-01-04" xml:lang="en">
+<title>USA: GM seeks to quash Lopez request for delay.</title>
+<headline>GM seeks to quash Lopez request for delay.</headline>
+<dateline>DETROIT 1997-01-03</dateline>
+<text>
+<p>General Motors Corp on Friday asked a U.S. federal judge deny a request to delay its industrial espionage lawsuit against Volkswagen AG and its former production chief, Jose Ignacio Lopez de Arriortua.</p>
+<p>GM filed a motion asking U.S. District Judge Nancy Edmunds to deny a request by Lopez' lawyers for a postponement until separate criminal investigations in the United States and Germany were resolved.</p>
+<p>On December 10, German prosecutors charged Lopez and three others with misappropriating trade secrets from GM and its Adam Opel AG unit in Germany.  </p>
+<p>Lopez, who abruptly left GM to join Volkswagen in 1993 along with several other executives, resigned from VW's management board in late November and is believed to be living in his native Spain.</p>
+<p>Lopez' lawyers claim that he cannot effectively defend himself in two cases simultaneously and would risk incriminating himself by responding to GM's civil allegations.</p>
+<p>GM's motion claims that Lopez' request for a stay has no legal standing. &quot;They filed their motion in one more effort to delay the case, and we are opposing it,&quot; GM spokesman John Mueller said.  </p>
+<p>Edmunds has scheduled a hearing for January 29, when oral arguments on the postponement issue will be presented.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

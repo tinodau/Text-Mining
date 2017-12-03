@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225430" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: GM calls Lopez resignation &quot;overdue&quot;.</title>
+<headline>GM calls Lopez resignation &quot;overdue&quot;.</headline>
+<dateline>DETROIT 1996-11-29</dateline>
+<text>
+<p>General Motors Corp released a three-sentence statement Friday calling the resignation of Jose Ignacio Lopez de Arriortua from Volkswagen AG &quot;long overdue.&quot;</p>
+<p>&quot;The resignation of VW management board member Jose Ignacio Lopez de Arriortua is a long-overdue first step that has been needlessly delayed for more than three years,&quot; GM spokesman John Mueller said in a prepared statement.</p>
+<p>&quot;It is now time for Volkswagen management to address the real issues in this matter in a responsible manner rather than continue to create irrelevant side issues,&quot; Mueller said.  </p>
+<p>Lopez, the former purchasing head of GM who defected to Volkswagen in 1993, is at the center of international espionage charges filed by GM.  Lopez resigned from Volkswagen on Friday, saying he needs to concentrate on his legal defense as well as start his own consulting firm.</p>
+<p>In March, GM filed a civil lawsuit in U.S. District Court in Detroit alleging that Lopez and several associates stole confidential documents when they left for the German automaker.  The documents and computer files included parts prices as well as future product and manufacturing plans.  </p>
+<p>Lopez and VW have denied the charges. Lopez' resignation fulfills one of the demands from GM and its German Adam Opel AG unit.  The companies have also asked for unspecified financial compensation for the alleged damages.</p>
+<p>&quot;The harm caused to GM and Opel by the wrongful conduct of Lopez and his collaborators remains to be remedied,&quot; Mueller said in the statement.</p>
+<p>GM officials declined to comment on whether the two sides are involved in settlement talks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

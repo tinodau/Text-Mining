@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117528" id="root" date="1996-10-15" xml:lang="en">
+<title>GERMANY: VW denies it hires ex-Clinton consultant.</title>
+<headline>VW denies it hires ex-Clinton consultant.</headline>
+<dateline>FRANKFURT 1996-10-15</dateline>
+<text>
+<p>German carmaker Volkswagen AG denied on Tuesday a newspaper report saying it had hired as a consultant former White House consultant Dick Morris, who resigned after a tabloid reported his affair with a prostitute.</p>
+<p>The International Herald-Tribune quoted VW chief spokesman Klaus Kocks as saying Morris had been hired to help in its public relations battle with General Motors Corp.</p>
+<p>A VW spokesman denied the report, saying VW had not signed a contract with Morris. Kocks was not available for comment.</p>
+<p>The report said Morris was hired ahead of a critical U.S. federal court hearing on Wednesday in Detroit, the latest step in the battle between GM and its German subsidiary Opel and Volkswagen over allegations of industrial espionage.</p>
+<p>GM has charged that former executive Jose Ignacio Lopez de Arriortua, who left GM for VW in March 1993 with seven other GM executives, took with them documents on purchasing and production plans.</p>
+<p>Volkswagen has denied the charges.</p>
+<p>On Wednesday, a judge in Detroit will hear Volkswagen's arguments to have GM's case alleging industrial espionage thrown out of court.</p>
+<p>If the judge allows GM to proceed with the case, VW's top executives, including VW management board chairman Ferdinand Piech, could be put on trial.</p>
+<p>VW has countered by filing a separate complaint in a German court alleging that GM's public accusations amount to a breach of German competition laws.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

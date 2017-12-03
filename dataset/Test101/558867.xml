@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558867" id="root" date="1997-05-05" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended Monday.</p>
+<p>LONDON - The stock market was closed for a holiday. On Friday. The FTSE 100 index added 10.6 points to close at a record 4,455.6.</p>
+<p>FRANKFURT - Germany's blue-chip DAX index rallied to end bourse trade at a record closing high, with sentiment cheered by Wall Street's strong gains on Friday and the dollar's resilience at higher levels.</p>
+<p>The 30-share DAX comfortably exceeded a previous record high of 3,474.28 points to end bourse trade up 68.41 points, or nearly 2 percent at 3,528.78 points, just off an all-time high of 3,533.18 points reached earlier in the session. In post-bourse trade the DAX stood at 3,565.69 up 74.61 points.</p>
+<p>PARIS - French shares closed higher, supported by a rising Wall Street, traders said. But trading in Paris suffered from low volume as London was closed for a market holiday.</p>
+<p>The blue-chip CAC-40 index closed up 17.53 points or 0.66 percent at 2,672.84, while the CAC-40 futures contract was up 24 at 2,662 from Friday's close.</p>
+<p>ZURICH - Swiss shares powered ahead to end above the psychologically important level of 5,000 points in the blue chip Swiss Market Index (SMI), posting the fourth record close in as many days.</p>
+<p>The SMI closed up 76.1 points or 1.54 percent at 5,029.6. The index earlier hit an all-time high at 5,041.5. The All-share Swiss Performance Index (SPI) ended up 43.09 points or 1.38 percent at 3,170.56.</p>
+<p>TOKYO - The Tokyo stock market was closed for a national holiday. Trading will resume on Tuesday. On Friday, the 225-share Nikkei average rose 239.42 points or 1.24 percent to end at 19,514.75, a new closing high for 1997.</p>
+<p>HONG KONG - Hong Kong stocks raced ahead to close sharply higher after a strong rally on Wall Street on Friday spurred heavy buying in interest rate sensitive property and banking stocks.</p>
+<p>The Hang Seng Index jumped 317.64 points, or 2.43 percent, to 13,399.34 after touching a session high at 13,439.78.</p>
+<p>SYDNEY - Early enthusiasm for Australian shares faded by the close on Monday as market bellwether BHP lost all of its early gains in afternoon trade after unions voted for a nationwide strike against BHP on May 15.</p>
+<p>At the close the All Ordinaries index ended 1.1 points higher at 2,492.7 after hitting an intra-day high of 2,509.9, but never built enough momentum to topple the record high of 2,515.1 reached last Wednesday.</p>
+<p>JOHANNESBURG - South African gold shares ended firm after bullion rose $3 to around $343 an ounce. The gold index ended up 24.1 points at 1,205.7 points, lifting the index from the four-year lows it has been plumbing in the last few sessions.</p>
+<p>The industrial index gained 24.9 points to 8,563.4 points and the all-share index was 41.4 points stronger at 7,190.4 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

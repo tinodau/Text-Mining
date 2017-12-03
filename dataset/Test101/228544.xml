@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228544" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Judge allows GM's remaining VW claims to proceed.</title>
+<headline>Judge allows GM's remaining VW claims to proceed.</headline>
+<dateline>DETROIT 1996-12-02</dateline>
+<text>
+<p>A federal judge Monday denied Volkswagen AG's motions to dismiss General Motors Corp.'s remaining industrial espionage claims against the German automaker, clearing the way for GM's U.S. lawsuit to proceed.</p>
+<p>In the ruling, U.S. District Judge Nancy Edmunds allowed GM to pursue claims that Volkswagen and several of its top executives violated copyright, trademark and unfair competition laws in an alleged scheme to steal GM trade secrets.  </p>
+<p>Last week, Edmunds allowed GM's claims under the Racketeer Influenced and Corrupt Organisations Act -- which could lead to triple damages against VW -- to proceed. With Monday's decision, she has denied virtually every Volkswagen motion in the case so far.</p>
+<p>GM sued VW and its former production chief, Jose Ignacio Lopez de Arriortua in March, alleging that he masterminded a scheme to steal confidential GM data when he left the Detroit automaker in 1993 to join Volkswagen. Lopez announced his resignation from VW on Friday, a move that fuelled speculation that the case might soon be settled out of court.</p>
+<p>But GM spokesman John Mueller said Monday that GM has not held settlement talks with VW and was prepared to let the case proceed. On Tuesday, Edmunds will hold a status conference with lawyers from both sides to set a schedule and procedures for discovery, the process of taking sworn statements from witnesses and disclosure of other evidence in the case.</p>
+<p>&quot;Judge Edmunds' decision today denies motions by the defendants tp dismiss GM's and Opel's allegations of wrongdoing under the U.S. federal copyright laws and the Lanham Act,&quot; which is the federal unfair competition law, Mueller said. &quot;Her decision supports our position and clears the way for those allegations to be heard in the upcoming trial along with our RICO claims.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234719" id="root" date="1996-12-04" xml:lang="en">
+<title>GERMANY: Audi chief named head of VW Brazil.</title>
+<headline>Audi chief named head of VW Brazil.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>German carmaker Audi AG said Wednesday its chief executive would leave to head the Latin American arm of its Volkswagen parent in the latest management change after a VW executive tied to a spying scandal resigned.</p>
+<p>Herbert Demel, chairman of Audi since February 1994, was chosen to be president of Volkswagen's Latin American arm based in Brazil, which industry analysts say could put Demel in contention to be a future VW chairman.</p>
+<p>Audi said Demel will be replaced by Audi management board member Franz-Josef Paefgen as leader of the automaker when the transition takes place in mid-1997.</p>
+<p>Paefgen, 50, joined the Audi management board in March 1994 and has been responsible for technical development. He started his career in the German car industry as a trainee in 1976 with the German arm of Ford Motor Co. and joined Audi in 1980.</p>
+<p>VW said Demel's move was not related to the resignation on Friday of VW production chief Jose Ignacio Lopez de Arriortua, who was also chairman of VW's Latin American arm.</p>
+<p>VW chief executive Ferdinand Piech will take on Lopez'job title in Brazil, which is the largest foreign unit operated by VW, with 10 billion marks ($6.4 billion) in yearly sales.</p>
+<p>Lopez is one of several top VW officials, including Piech, who are defendants in a U.S. civil lawsuit filed by General Motors Corp. and its German unit Adam Opel alleging VW stole documents and other information when Lopez and seven associates left GM in 1993 to join VW.</p>
+<p>Demel has been credited with invigorating Audi, which makes the award-winning model A4 model.</p>
+<p>Although Audi has higher annual revenues than the Brazil unit, Demel is seen by industry analysts to be a top contender to succeed Piech, who was also once chief executive at Audi.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

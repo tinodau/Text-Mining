@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217898" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: U.S. judge allows GM racketeering claim against VW.</title>
+<headline>U.S. judge allows GM racketeering claim against VW.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1996-11-26</dateline>
+<text>
+<p>A federal judge Tuesday denied Volkswagen AG's motion to dismiss racketeering claims by General Motors Corp., opening the German automaker to potentially higher damages in GM's U.S. civil lawsuit.</p>
+<p>U.S. District Judge Nancy Edmunds said in a written order that GM's complaint alleging VW stole confidential documents adequately met the standard needed to proceed under the Racketeer Influenced and Corrupt Organisations Act (RICO).</p>
+<p>If a jury finds VW fiancially damaged GM through the theft of trade secrets, VW could face triple damages under the RICO law. The statute, which has been widely used to prosecute organised crime in the United States, requires proof of an ongoing conspiracy or enterprise that aims to commit fraud or other criminal acts.</p>
+<p>GM filed a lawsuit in U.S. District Court in March alleging its former purchasing chief, Jose Ignacio Lopez de Arriortua, and several others stole confidential documents when they left GM to join VW in 1993.</p>
+<p>GM claims the stolen documents, which included information on future product plans, parts prices and manufacturing techniques, unfairly allowed VW to reduce its costs, causing GM unspecified financial damage.</p>
+<p>Under the RICO law, GM claimed that Volkswagen, Lopez, VW Chairman Ferdinand Piech and other top executives participated in a conspiracy to steal the documents and transport them to Germany.</p>
+<p>While Edmunds did not consider the merits of GM's claims, she said they should be considered under the RICO statute.</p>
+<p>&quot;Although the complaint only alleges two victims, GM and Opel, the compaint alleges multiple schemes and multiple predicate acts,&quot; Edmunds wrote in the order. Adam Opel AG is GM's German subsidiary.</p>
+<p>GM has alleged, &quot;Defendants schemed to steal boxes of trade secrets, to transport the documents to Europe, to copy them into VW's computers, to destroy the evidence and to engage in a cover-up, thereby enabling VW to utilize the stolen trade secrets,&quot; Edmunds wrote.</p>
+<p>Reacting to the ruling, GM said in a statement that Edmunds' order meant its most serious allegations would be presented in open court with witnesses under oath.</p>
+<p>&quot;It also means that we are yet another step closer to a remedy for the substantial damages we suffered when Lopez was lured away from GM and defected to VW with our trade secrets,&quot; GM spokesman John Mueller said.</p>
+<p>A spokesman for VW's North American subsidiary could not immediately be reached for comment.</p>
+<p>Edmunds' order marked the second time in a month that she has issued an unfavourable ruling against VW. In October, she denied a VW motion to dismiss the case in U.S. federal court. She also ruled that Piech and several other top VW officials should remain defendants in GM's civil complaint.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

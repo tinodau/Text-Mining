@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="691763" id="root" date="1997-06-27" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended Friday.</p>
+<p>LONDON - The FTSE 100 index closed lower but off the day's worst levels and with a net gain of 46.4 points on the week. The FTSE 100 closed at 4,640.3, down 17.6 points, or 0.38 percent.</p>
+<p>FRANKFURT - Shares flagged, ending slightly lower after a week that saw the market set fresh records on the back of a liquidity upsurge, despite alarming see-sawing on Wall Street. The DAX-30 index closed at 3,795.41, down 9.88 points, for a rise of 7.14 on the week.</p>
+<p>PARIS - The CAC-40 share index ended a touch weaker, retracing most of the day's losses, and clinging just below the key 2,900 level. The CAC-40 index closed at 2,891.04, down 2.60 points. For the week it rose 133.94 points.</p>
+<p>ZURICH - Shares rebounded from opening losses to post a third straight record close. The Swiss market index closed at 5,700.3, up 30.4 points, and up 138.5 points on the week.</p>
+<p>TOKYO - Stocks closed lower after a brief rally prompted by stronger-than-expected growth in Japan's industrial production in May fizzled out due to caution on the peak day for annual shareholders' meetings, brokers said. The 225-share Nikkei average closed at 20,523.75, down 101.01 points, but was up 138.21 from last Friday.</p>
+<p>HONG KONG - The Hang Seng Index ended the last day of trading under colonial rule at a record high. The Hang Seng index closed at 15,196.79, up 68.77 points, for a rise of 42.43 points on the week.</p>
+<p>SYDNEY - Shares ended marginally higher with options expiration dominating trade and market heavyweight BHP's annual profit well received by investors. The All Ordinaries index closed at 2,702.4, up 2.5 points. It fell 10.2 for the week.</p>
+<p>JOHANNESBURG - Industrial and all-share indices finished at record highs but the gold index tumbled to its lowest since March 1993. The all-share index closed at 7,411.2, up 8.5 points and up 177.1 from a week ago, the industrial index rose 5.3 points to 8,747.6 for a gain of 236.1 for the week, while the gold index closed at 994.8, down 13.6 points, for a drop of 32.6 since last week.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

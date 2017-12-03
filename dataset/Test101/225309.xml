@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225309" id="root" date="1996-11-29" xml:lang="en">
+<title>GERMANY: VW reiterates Lopez did not steal secrets. [CORRECTED 17:37 GMT]</title>
+<headline>VW reiterates Lopez did not steal secrets. [CORRECTED 17:37 GMT]</headline>
+<dateline>WOLFSBURG, Germany 1996-11-29</dateline>
+<text>
+<p>Volkswagen AG supervisory board chairman Klaus Liesen reiterated VW's position that departing production chief Jose Ignacio Lopez de Arriortua did not steal secrets from his former employer General Motors.</p>
+<p>VW reiterates Lopez did not steal secrets</p>
+<p>Management board chairman Ferdinand Piech and board member Peter Hartz will take over Lopez's responsibilities, Liesen told a news conference.</p>
+<p>One former GM manager who joined VW with Lopez will resign with him, while others will stay with VW, Piech told the same news conference (corrects to make clear that one of the managers will leave VW with Lopez)</p>
+<p>Lopez, at the center of a three-year legal battle with GM over allegations of industrial espionage, resigned to concentrate on his defence. VW stands to lose billions of dollars in a suit brought in the U.S. by GM.</p>
+<p>-- Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

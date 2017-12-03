@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564028" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Accused South Korean spy likely to plead guilty.</title>
+<headline>Accused South Korean spy likely to plead guilty.</headline>
+<dateline>WASHINGTON 1997-05-05</dateline>
+<text>
+<p>Former U.S. Navy intelligence employee Robert Kim, accused of espionage for passing classified information to South Korea last year, is expected to plead guilty, the Justice Department said on Monday.</p>
+<p>A department spokesman said a court hearing has been set for Wednesday in Alexandria, Virginia, for Kim to enter his guilty plea. A court official confirmed the hearing has been scheduled for the entering of the guilty plea.</p>
+<p>A federal grand jury indicted Kim on three espionage counts in March, charging that he gave or attempted to give seven documents relating to the U.S. national defence to a South Korean official.</p>
+<p>Kim, 56, who had been a civilian computer specialist with the Navy since 1978, had access to top-secret information during his military career. The Korean-born Kim became a U.S. citizen in 1974.</p>
+<p>He initially pleaded not guilty to the charges and a trial had been planned for July. Details of the plea deal were not immediately available. The espionage charges carry a maximum sentence of life in prison without parole.</p>
+<p>Kim was arrested in September at a diplomatic reception at Fort Myer, Virginia and charged with passing classified information to South Korean Navy Capt. Baek Dong-Il, who worked at the South Korean embassy.</p>
+<p>The Washington Post in its Tuesday editions quoted sources close to the case saying that Kim would plead guilty to lesser charges of gathering, transmitting or losing defence information.</p>
+<p>Under the original indictment, Kim faced the possibility of life in prison, but the lesser charges carry a maximum sentence of 10 years, according to the newspaper report.</p>
+<p>Kim has remained in jail without bail since his arrest. He was dismissed from the Navy after his arrest.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

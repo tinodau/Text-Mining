@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430724" id="root" date="1997-03-10" xml:lang="en">
+<title>GERMANY: VW sees no changes in super board through summer.</title>
+<headline>VW sees no changes in super board through summer.</headline>
+<dateline>WOLFSBURG, Germany 1997-03-10</dateline>
+<text>
+<p>The leader of Volkswagen AG's supervisory board said on Monday that he expected no personnel changes on the German carmaker's supervisory board at least through the summer.</p>
+<p>VW supervisory board chairman Klaus Liesen, responding to German media speculation about a pending shakeup on the VW board, said board members would be up for re-election in June but that three would not run again because of their age.</p>
+<p>The carmaker's regulations require supervisory board members to step down when they reach age 70.</p>
+<p>VW's annual report shows that supervisory board members Carl Hahn, Walter Keisler Kiep and Otto Graf Lambsdorf would be required to step down because of their age.</p>
+<p>A VW spokesman declined to confirm which members may step down from the VW board.</p>
+<p>German media reports have speculated that VW may shake up its supervisory board amid allegations of some VW workers demanding and receiving bribes in return for contracts.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730718" id="root" date="1997-07-15" xml:lang="en">
+<title>INDONESIA: Indonesia boat death toll rises to 70 - agency.</title>
+<headline>Indonesia boat death toll rises to 70 - agency.</headline>
+<dateline>JAKARTA 1997-07-15</dateline>
+<text>
+<p>At least 70 people have been confirmed dead after a ferry capsized on Indonesia's scenic Lake Toba in North Sumatra, the official Antara news agency reported on Tuesday.</p>
+<p>&quot;Seventy bodies have been found as of 11:45 a.m.  (0445 GMT). They are the victims from the K.M. Peldatari which sank on Sunday night,&quot; the agency reported.</p>
+<p>Police had earlier said 60 people died in the accident in the popular tourist destination in the inland mountain range which runs the length of Sumatra island.</p>
+<p>Antara said 50 people had been rescued from the ferry, which sank on its way from Parapat on the shore of Lake Toba to Tomok on Samosir island in the middle of the lake.</p>
+<p>It said more than 150 people were believed to have been on the ferry, which had a maximum legal capacity of between 50 and 60 people.</p>
+<p>Police in Medan, the capital of North Sumatra, later said the death toll might increase as the search continued.</p>
+<p>&quot;We have the names of 60 people who are killed in the accident. Most of them are villagers who returned to their hometowns after attending a festival in Parapat,&quot; one policeman told Reuters.</p>
+<p>&quot;What we know is there are no foreigners among the passengers,&quot; he said.</p>
+<p>Antara said the passengers were returning to the island after attending the annual local cultural festival. It quoted survivors as saying they heard loud cracking noises before the boat sank.</p>
+<p>&quot;Water quickly came into the boat, so the passengers who were mostly teenagers jumped into the lake, which is 800 metres (2,600 feet) deep,&quot; the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

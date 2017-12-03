@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205883" id="root" date="1996-11-21" xml:lang="en">
+<title>NETHERLANDS: SOCCER-UEFA BACKS 10-DAY WINDOWS FOR INTERNATIONAL MATCHES.</title>
+<headline>SOCCER-UEFA BACKS 10-DAY WINDOWS FOR INTERNATIONAL MATCHES.</headline>
+<dateline>AMSTERDAM 1996-11-20</dateline>
+<text>
+<p>UEFA's technical committee on Wednesday unanimously backed a move to set aside 10 days every second month solely for international matches.</p>
+<p>Two international fixtures would be scheduled within each 10-day period over a four-year cycle. The technical committee's conclusions will be considered by UEFA's executive committee.</p>
+<p>The proposal recognises the concerns of the National Coaches Convention, which warned at a meeting in September that national sides and national identities needed to be protected in the face of a growing number of domestic and European club fixtures.</p>
+<p>Many countries have already adopted the 10-day policy for the current qualifying matches for the 1998 World Cup finals in France.</p>
+<p>UEFA's technical committee also unanimously opposed the use of the &quot;golden goal &quot; to decide a match in extra-time and said the number of teams qualifying for the final phase of the European championship should be left at 16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

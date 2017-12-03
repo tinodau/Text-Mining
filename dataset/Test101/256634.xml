@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256634" id="root" date="1996-12-13" xml:lang="en">
+<title>GERMANY: VW has no comment on prosecutors' points.</title>
+<headline>VW has no comment on prosecutors' points.</headline>
+<dateline>WOLFSBURG, Germany 1996-12-13</dateline>
+<text>
+<p>German carmaker Volkswagen AG said on Friday it had no comment to make on statements by German prosecutors on the charges of embezzlement and betrayal of corporate secrets facing its former management board member Jose Ignacio Lopez de Arriortua.</p>
+<p>The Darmstadt public prosecutor's office had held a news conference giving details on the charges brought on December 6 against Lopez, a former executive at General Motors and three other former GM employees.</p>
+<p>The four have been accused of stealing secret documents when they quit the U.S. carmaker in 1993 to join rival Volkswagen.</p>
+<p>Volkswagen spokesman Klaus Kocks, in response to a Reuter enquiry, noted that media reports had said the prosecutor's office had found no evidence that VW colluded with the accused.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

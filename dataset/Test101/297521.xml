@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297521" id="root" date="1997-01-09" xml:lang="en">
+<title>GERMANY: VW - no comment on settlement talk.</title>
+<headline>VW - no comment on settlement talk.</headline>
+<dateline>WOLFSBURG, Germany 1997-01-09</dateline>
+<text>
+<p>Volkswagen AG on Thursday declined official comment on talk that VW's supervisory board had approved in principle an out-of-court settlement with General Motors in a legal dispute over alleged industrial spying.</p>
+<p>But VW spokesman Klaus Kocks said he welcomed the &quot;moderate and fair&quot; comments made earlier by Hans Wilhelm Gaeb, vice president at GM's European headquarters in Zurich.</p>
+<p>Gaeb had said that GM had always made clear it had respect for VW and that its dispute targeted a handful of VW officials, not VW itself.</p>
+<p>A source close to VW said on Thursday the German carmaker's supervisory board has approved the idea of a settlement with General Motors Corp.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOLFSBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177364" id="root" date="1996-11-08" xml:lang="en">
+<title>GERMANY: VW lawyers expect Lopez to be charged in Nov - paper.</title>
+<headline>VW lawyers expect Lopez to be charged in Nov - paper.</headline>
+<dateline>BONN 1996-11-08</dateline>
+<text>
+<p>Lawyers for Volkswagen AG expect German prosecutors to charge the company's production chief, Jose Ignacio Lopez, and three others this month for alleged industrial espionage, a newspaper reported on Friday.</p>
+<p>Sueddeutsche Zeitung said VW's lawyers expected Lopez and fellow managers Jose Gutierrez, Jorge Alvarez and Rosario Piazza to be charged for allegedly taking secret information with them when they left General Motors Corp to join VW in 1993.</p>
+<p>Volkswagen AG, its Frankfurt lawyer, Juergen Taschke, and the Darmstadt prosecutors office that has been investigating the case could not immediately be reached for comment.</p>
+<p>VW has consistently denied the allegations.</p>
+<p>In a bitter three-year legal dispute, GM and its German subsidiary Opel have alleged that Lopez and seven other former GM managers stole secrets on purchasing and production plans when they moved to VW.</p>
+<p>-- Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

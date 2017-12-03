@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152376" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Judge considers GM racketeering claims against VW.</title>
+<headline>Judge considers GM racketeering claims against VW.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT</dateline>
+<text>
+<p>General Motors Corp.'s U.S. industrial espionage lawsuit against Volkswagen AG moved a step forward Monday as a federal judge heard arguments over GM's racketeering, copyright and trademark infringement claims.</p>
+<p>U.S. District Judge Nancy Edmunds in Detroit said she will issue a ruling at a later date on whether GM should be allowed to pursue such claims against VW.</p>
+<p>GM accuses VW's production chief, Jose Ignacio Lopez de Arriortua, and other executives of stealing trade secrets when he abruptly left GM to join VW in March 1993, including product plans, supplier prices and manufacturing techniques.</p>
+<p>At the heart of GM's civil complaint are allegations that Lopez, VW Chairman Ferdinand Piech, management board member Jens Neumann and other top executives formed a conspiracy to steal the documents that violated the U.S. Racketeer-Influenced and Corrupt Organisations Act (RICO).</p>
+<p>The law, which has been widely used to prosecute organised crime in the United States, is aimed at thwarting conspiracies and criminal enterprises that show a pattern of illegal activity. A jury finding in favour of GM's RICO claims could make the automaker eligible for triple damages.</p>
+<p>On Monday, lawyers for VW argued before Edmunds that GM's claims -- assuming they were true -- do not extend over a long-enough period of time to establish a sufficient pattern under RICO. The conspiracy was alleged to have taken place between August and November 1992, when Piech and Neumann were recruiting Lopez, VW attorneys said.</p>
+<p>&quot;What they have alleged is merely a single scheme with no future threat of repetition,&quot; said James Denvir, a Washington, D.C.-based lawyer representing VW.</p>
+<p>Attorneys for GM argued that VW was maintaining a scheme to damage the Detroit-based automaker by continuing to use the information that Lopez and his followers allegedly stole.</p>
+<p>William Sankbeil, another VW attorney, characterised GM's lawsuit as an act of retribution over the disappointment and embarrassment it suffered when Lopez was hired away.</p>
+<p>&quot;This case is about colossal egos at the world's largest industrial corporation,&quot; Sankbeil told the judge. &quot;Egos that could not tolerate a competitor winning a key employee.&quot;</p>
+<p>While Edmunds did not rule on the RICO, copyright and trademark infringement issues, she did on Monday deny a VW motion to exclude H. William Lytle, Volkswagen of America Inc.'s former director of human resources, as a defendant in the suit.</p>
+<p>GM alleges that Lytle received boxes of stolen documents from Lopez at the Volkswagen unit's Auburn Hills, Mich., headquarters and shipped them on to Germany for him and made interstate telephone calls as part of the alleged conspiracy.</p>
+<p>An attorney for Lytle argued that he committed no illegal acts and merely conducted routine business in the course of hiring a new employee.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

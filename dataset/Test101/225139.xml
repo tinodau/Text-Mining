@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225139" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: GM calls Lopez resignation &quot;overdue&quot;.</title>
+<headline>GM calls Lopez resignation &quot;overdue&quot;.</headline>
+<dateline>DETROIT</dateline>
+<text>
+<p>General Motors Corp. released a three sentence statement Friday calling the resignation of Jose Ignacio Lopez de Arriortua from Volkswagen AG &quot;long overdue.&quot;</p>
+<p>&quot;The resignation of VW management board member Jose Ignacio Lopez de Arriortua is a long overdue first step that has been needlessly delayed for more than three years,&quot; GM spokesman John Mueller said in a prepared statement.</p>
+<p>&quot;It is now time for Volkswagen management to address the real issues in this matter in a responsible manner rather than continue to create irrelevant side issues,&quot; Mueller said.</p>
+<p>&quot;The harm caused to GM and Opel by the wrongful conduct of Lopez and his collaborators remains to be remedied,&quot; Mueller said in the statement.</p>
+<p>GM officials declined to comment on whether the two sides are involved in settlement talks.</p>
+<p>Lopez, the former purchasing head of GM who defected to Volkswagen in 1993, is at the centre of international espionage charges filed by GM. Lopez resigned from Volkswagen Friday, saying he needs to concentrate on his legal defence as well as start his own consulting firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

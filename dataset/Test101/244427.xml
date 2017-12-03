@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244427" id="root" date="1996-12-09" xml:lang="en">
+<title>GERMANY: VW says CEO to apologize to GM in magazine.</title>
+<headline>VW says CEO to apologize to GM in magazine.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>Volkswagen AG said Monday that Chief Executive Ferdinand Piech would publicly apologise to General Motors Corp. over allegations that a former VW executive stole industrial secrets from GM.</p>
+<p>VW spokesman Klaus Kocks said that Piech, in an interview in the Thursday edition of the German magazine Stern, would express &quot;deepest regret&quot; over allegations that former VW purchasing chief Jose Ignacio Lopez de Arriortua stole documents when he left GM in 1993 to join VW.</p>
+<p>GM, which has filed a lawsuit against VW in federal court in Detroit over the alleged corporate espionage, has set three conditions before it will consider any out-of-court settlement -- the resignation of Lopez, a public apology from VW and payment for damages.</p>
+<p>Lopez resigned from VW under pressure late last month after German prosecutors said they would announce by year-end whether he faces criminal charges. Lopez's lawyer has said that he expects charges to be filed against Lopez.</p>
+<p>A GM spokesman in Germany declined to comment on the report.</p>
+<p>VW could face penalties totalling billions of dollars in the suit brought by GM, which is based in part on the federal Racketeering Influenced and Corrupt Organisations statutes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

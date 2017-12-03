@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802242" id="root" date="1997-08-15" xml:lang="en">
+<title>PHILIPPINES: Four drowned after boat capsizes in Manila Bay.</title>
+<headline>Four drowned after boat capsizes in Manila Bay.</headline>
+<dateline>MANILA 1997-08-15</dateline>
+<text>
+<p>At least four people drowned after a pleasure boat, carrying mostly Hong Kong tourists, capsized after being battered by high winds in Manila Bay on Friday, Navy officials said.</p>
+<p>The owner of the outrigger told reporters that the holiday-makers panicked after strong winds and high waves rocked the King George as it was heading back to port.</p>
+<p>&quot;The guests panicked. They all went to one side of the boat,&quot; he said.</p>
+<p>&quot;The boat suddenly tipped (after) ... the passenger rushed to the right side of the boat ... I was shocked,&quot; the captain, Romeo Farolan said.</p>
+<p>Many of the passengers were able to grab life jackets before the boat turned over.</p>
+<p>Navy spokesman Salvador Cuba said at least 44 tourists, mostly from Hong Kong and some from Japan, two Filipino tour guides, and three crew were on board when it capsized seven miles off the Navy headquarters.</p>
+<p>Most were rescued but officials said six were still unaccounted for.</p>
+<p>Rescue operations led by four navy vessels and a commercial ship were going on into the night.</p>
+<p>&quot;Our divers are swimming to see if there is anyone left inside the boat,&quot; Cuba said.</p>
+<p>A tourism department representative said the tourists had only just arrived in the Philippine capital and immediately went on a sightseeing tour around Manila Bay late in the afternoon.</p>
+<p>It was the second boat disaster in the day in the Philippines.</p>
+<p>Earlier, an inter-island vessel sank in Samar sea off the central island of Biliran, drowning 13 people, including a baby girl, while 47 others were missing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

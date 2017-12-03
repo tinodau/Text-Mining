@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647139" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: U.S. CREDIT OUTLOOK--Data scarce, technicals rule.</title>
+<headline>U.S. CREDIT OUTLOOK--Data scarce, technicals rule.</headline>
+<byline>Steven Scheer</byline>
+<dateline>NEW YORK 1997-06-09</dateline>
+<text>
+<p>With no key economic data due until later in the week, U.S. Treasuries are expected to stick to very tight ranges on Tuesday, mainly focusing on technical factors, players said.</p>
+<p>The market, unable to sustain Friday's runup on Monday, offers more downside risk amid a steady stream of corporate and asset-backed supply.</p>
+<p>Losses are seen limited, however, since the market anticipates bond-friendly economic news beginning on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

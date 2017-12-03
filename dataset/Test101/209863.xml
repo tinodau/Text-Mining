@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209863" id="root" date="1996-11-22" xml:lang="en">
+<title>EGYPT: Egyptian held on suspicion of spying for Israel.</title>
+<headline>Egyptian held on suspicion of spying for Israel.</headline>
+<dateline>CAIRO 1996-11-22</dateline>
+<text>
+<p>Egypt's counter-espionage service has arrested a 47-year-old Egyptian man on suspicion of selling military information to Mossad, the Israeli secret service, the government newspaper al-Ahram said on Friday.</p>
+<p>It said the man, Samir Osman, met Mossad agents in Greece, Turkey and Hungary or by swimming to Israel underwater with scuba diving equipment from the border resort of Taba.</p>
+<p>Osman was said to have confessed to providing Mossad with information about the Egyptian navy and about the place where he served in the Egyptian military.</p>
+<p>The newspaper said the arrest was part of a counter- espionage operation which started in October. Osman was initially remanded in custody for 15 days and this has since been extended by a further 45 days, it added.</p>
+<p>It did not link Osman with the case of Israeli textile engineer Azam Azam, who was arrested on November 5 on suspicion of spying on Egypt for his country. An alleged Egyptian accomplice is in custody on suspicion of helping Azam.</p>
+<p>Israel has denied Azam is a spy but Egyptian President Hosni Mubarak insists that he is and has rejected Israeli appeals that the Egyptian authorities release him.</p>
+<p>Al-Ahram said a search of Osman's flat turned up four passports and incriminating documents. Under questioning he confessed to meeting Mossad agents on many occasions and sending his information to a post office box in Greece.</p>
+<p>It said he also frequented the Israeli embassy and the Israeli Academic Centre in Cairo and visited Israel openly on the pretext of seeking work.</p>
+<p>&quot;The public prosecutor has filed several charges, including giving information to a foreign state with the aim of damaging Egypt's political and military position and receiving money from abroad,&quot; the newspaper said.</p>
+<p>It said the case was expected to be referred to the military judiciary for investigation and court martial proceedings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

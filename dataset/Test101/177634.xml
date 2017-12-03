@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177634" id="root" date="1996-11-08" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON 1996-11-08</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended on Friday.</p>
+<p>LONDON - UK shares struggled to a modestly higher finish Friday after another disappointing week as interest rate worries continued to pressure the London market. The FTSE index closed at 3910.8 points, up 10.4 on the day but down 37.7 points on the week.</p>
+<p>FRANKFURT - The German DAX index of 30 leading shares ended floor trade at a record high on Friday, driven by gains in bond prices and by the Dow Jones index which ended overnight above 6,200 points for first time. The DAX raced up to a day's high of 2,744.90 points and then slipped back slightly to end up 26.61 points, or 0.98 percent, at 2,739.83, a new record bourse close. It was up 56.58 from last Friday. In post-bourse trade the index was up 8.04 at 2,732.29.</p>
+<p>PARIS - French shares closed in negative ground after racking up major gains this week, tracking Wall Street's welcome to Bill Clinton's return to the White House. The blue chip CAC-40 index closed down 6.61 points or 0.3 percent at 2,205.20, while on the week, the index advanced 3.02 percent. It was a rise of 64-69 since last week.</p>
+<p>ZURICH - Swiss shares ended little changed after a gradual decline in the second half of the session after a weaker Wall Street open. Roche certificates also sagged, weighing on the market generally. The broad Swiss Performance Index (SPI) advanced 0.79 points, or 0.03 percent, to 2,439.66 points. It was up  36.88 from last week.</p>
+<p>TOKYO - Tokyo stocks held on to earlier gains to close more than two percent higher on Friday. But the rises were mainly attributed to technical buying, linked to the futures trade. The key 225-share Nikkei average soared 429.93 points or 2.07 percent to end at 21,201.04. Rising 567.98 points from last week.</p>
+<p>HONG KONG - Hong Kong stocks capped a record-breaking week with a modest gain on Friday, finishing higher as investors took heart from the market's firm tone despite some profit-taking earlier in the day. The Hang Seng index closed 15.90 points higher at 12,751.16, up 221.89 on the week.</p>
+<p>SYDNEY - Australian shares extended their gains in the afternoon to close higher on Friday as modest bargain hunting emerged after Thursday's weakness. The All Ordinaries index climbed 15.4 points to 2,362.1, up 22.7 from a week ago.</p>
+<p>JOHANNESBURG - South African stocks ended the week down for the fifth day runnning as early promising gains from better-than-expected reserves data evaporated in the glare of prevailing negative sentiment. The all-share index ended 9.4 points lower, at 6,793.5, down 177.9 on the week. As industrials slipped 22.6 points to 7,991.8. down 202.3 from last Friday. The gold index fared no better than the industrials and lost 11.9 points to 1,681.1. This was down 41.4 from a week ago. A tottering bullion price was to blame, dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

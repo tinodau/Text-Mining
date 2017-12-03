@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297526" id="root" date="1997-01-09" xml:lang="en">
+<title>GERMANY: VW surges on possible GM deal.</title>
+<headline>VW surges on possible GM deal.</headline>
+<dateline>FRANKFURT 1997-01-09</dateline>
+<text>
+<p>Shares in German carmaker Volkswagen AG surged on Thursday after a supervisory board source at the German carmaker said it had approved of the idea of settlement in its dispute with General Motors.</p>
+<p>VW shares, strong all day on speculation of an upcoming deal, rose 23.50 marks to 703.45 marks in post-bourse IBIS electronic trade before paring gains to about 701.50 marks.</p>
+<p>GM has accused former executive Jose Ignacio Lopez de Arriortua of having taken key industrial secrets with him when he left the U.S. manufacturer for Volkswagen in 1993. Lopez has since left VW and now faces German criminal charges.</p>
+<p>A VW supervisory board source said that while it was ready to approve a possible settlement with GM, full negotiations with the U.S. carmaker had not been completed.</p>
+<p>Separately, VW board member Klaus Kocks said he welcomed earlier comments from GM that it has moderated its stance relating to possible damages it would seek from Volkswagen.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

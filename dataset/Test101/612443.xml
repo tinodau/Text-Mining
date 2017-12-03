@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612443" id="root" date="1997-05-24" xml:lang="en">
+<title>USA: Former U.S. clerk gets jail, fine as Soviet spy.</title>
+<headline>Former U.S. clerk gets jail, fine as Soviet spy.</headline>
+<dateline>PHILADELPHIA 1997-05-23</dateline>
+<text>
+<p>A former clerk with the National Security Agency was sentenced to 18 years in prison and a $10,000 fine in federal court on Friday for selling secrets to the Soviet Union 30 years ago.</p>
+<p>The sentence came in a bargain for Robert Lipka's guilty plea to selling top-secret National Security Agency documents to Soviet espionage agents.</p>
+<p>The offences involved photographing the papers while Lipka, from Millersville, Pa., worked as a clerk at National Security Agency headquarters at Fort Meade, Md., from 1965 through 1967.</p>
+<p>The government alleged Lipka, 51, collected $27,000 from his handlers. He was not arrested until 1996, when the FBI cited statements he had made to an unnamed witness.</p>
+<p>The deal required Lipka to plead guilty to a single count of conspiring to commit espionage. It also required him to get clearance for any statements and turn over to the government any fees for his story.</p>
+<p>In return, prosecutors said, top-secret documents and a sensitive witness would be shielded.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="USSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

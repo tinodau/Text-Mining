@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271743" id="root" date="1996-12-21" xml:lang="en">
+<title>EGYPT: Egyptian military prosecutor handles spy case.</title>
+<headline>Egyptian military prosecutor handles spy case.</headline>
+<dateline>CAIRO 1996-12-21</dateline>
+<text>
+<p>The Egyptian military prosecutor will handle the case against an Egyptian arrested on suspicion of spying for Israel, security sources said on Saturday.</p>
+<p>&quot;The military prosecution has received the papers of Samir Osman's case,&quot; a source told Reuters.</p>
+<p>Osman, 47, was arrested last month on suspicion of selling military information to Mossad, the Israeli secret service.</p>
+<p>According to details given then by the government newspaper al-Ahram, Osman met Mossad agents in Greece, Turkey and Hungary or by swimming to Israel underwater with scuba diving equipment from the border resort of Taba. Osman was a diver during his service at the naval forces.</p>
+<p>Osman was said to have confessed to providing Mossad with information about the Egyptian navy and about the place where he served in the Egyptian military.</p>
+<p>&quot;The military prosecution will review Osman's file to issue the charge sheet detailing accusations against him,&quot; the security source said.</p>
+<p>Osman's case is not linked to that of Israeli textile engineer Azam Azam, who was arrested on November 5 on suspicion of spying on Egypt for his country. Prime Minister Benjamin Netanyahu has said he was pressing Egypt to release Azam.</p>
+<p>The security source said the official charge sheet detailing accusations against Azam and his alleged partners likely would be made public in the next few days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

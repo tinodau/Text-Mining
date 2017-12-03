@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229539" id="root" date="1996-12-02" xml:lang="en">
+<title>GERMANY: VW share falls 5.7 pct to 583.50 marks.</title>
+<headline>VW share falls 5.7 pct to 583.50 marks.</headline>
+<dateline>FRANKFURT 1996-12-02</dateline>
+<text>
+<p>Shares in German carmaker Volkswagen fell 5.7 percent to 583.50 marks ($379) in IBIS electronic trade on Monday amid foreign selling, their lowest level since October 23 when they closed at 582.78 marks.</p>
+<p>Dealers said the rush by foreign investors to sell VW shares was linked to worries about the ongoing legal dispute with U.S. carmaker General Motors Corp.</p>
+<p>&quot;It's been a catastrophic day for VW shares,&quot; one dealer said earlier.</p>
+<p>On Friday, VW accepted the resignation of production chief Jose Ignacio Lopez, who is at the centre of a legal battle between VW and GM, which gave the stock a slight lift.</p>
+<p>However, G.M. German unit Opel said Lopez' resignation would not be sufficient to cover its damages claims. The market was speculating that the amount of damages VW might ultimately have to pay could be as high as 7.5 billion marks ($4.9 billion).</p>
+<p>--Frankfurt Newsroom +49 69 756525 ($ = 1.539 German Marks)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184993" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Borg-Warner to make powder metal sprockets.</title>
+<headline>Borg-Warner to make powder metal sprockets.</headline>
+<dateline>CHICAGO 1996-11-13</dateline>
+<text>
+<p>Borg-Warner Automotive Inc said Wednesday its Morse TEC operating subsidiary plans to invest about $16 million for equipment to begin high-volume production of powder metal sprockets by mid-1998.</p>
+<p>Internal powder metal sprocket production will provide the company with greater control over technical advancements and economics of timing system components as the market shifts to overhead-cam engine configurations and customers demand the technology.</p>
+<p>It said the new sprocket prodution equipment will be installed at its Ithaca, N.Y. plant and is expected to be fully operational by mid-1998.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

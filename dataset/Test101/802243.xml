@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802243" id="root" date="1997-08-15" xml:lang="en">
+<title>PHILIPPINES: Four foreigners drown as Manila yacht capsizes.</title>
+<headline>Four foreigners drown as Manila yacht capsizes.</headline>
+<dateline>MANILA 1997-08-15</dateline>
+<text>
+<p>Four foreigners drowned and at least 15 people were missing after a pleasure boat sank in Manila Bay on Friday afternoon, officials said.</p>
+<p>Navy spokesman Salvador Cuba said 28 survivors, including at least seven children, were rescued.</p>
+<p>Milo Villena, a doctor at a nearby hospital, said three women and a child had died.</p>
+<p>At least 15 people were unaccounted for, officials said.</p>
+<p>Helen Wong, one of the survivors, said about 45 foreigners and two Filipino tourist guides were on a sightseeing tour of Manila Bay when strong wind turned over their boat which was on its way back to the dock. Radio reports said the boat had 43 Hong Kong Chinese and two Japanese on board.</p>
+<p>The vessel sank seven nautical miles from the Philippine Navy headquarters.</p>
+<p>&quot;I'm still waiting for my mother-in-law,&quot; Wong sobbed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

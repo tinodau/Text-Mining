@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231545" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: VW not discussing settlement with GM.</title>
+<headline>VW not discussing settlement with GM.</headline>
+<dateline>DETROIT 1996-12-03</dateline>
+<text>
+<p>An attorney representing Volkswagen AG said Tuesday the automaker is not currently discussing a settlement with General Motors Corp to end GM's civil claims against Volkswagen.</p>
+<p>James Denvir, a Washington, D.C.-based attorney, said the German automaker remains open to a settlement of the industrial spying charges that General Motors filed against it in March in U.S. District Court here.</p>
+<p>&quot;There are no negotiations going on at this moment,&quot; Denvir told reporters following a scheduling conference in federal court.  </p>
+<p>GM attorney Michael Millikin declined to discuss the possibility of a settlement.</p>
+<p>&quot;I'm not going to get into settlement discussions at all,&quot; he said after the scheduling conference.</p>
+<p>U.S. District Judge Nancy Edmunds told both parties they needed to complete the first phase of discovery by the end of February 1997. She said depositions would start in March.</p>
+<p>Denvir said it could be two years before the start of the trial, which would then take nine months to complete.</p>
+<p>GM has accused its former purchasing chief Jose Ignacio Lopez de Arriortua and several other former GM executives of stealing confidential documents when they defected to Volkswagen in 1993.</p>
+<p>Lopez, who faces likely German criminal charges in the case, resigned from Volkswagen last week. Both he and Volkswagen have denied GM's charges.</p>
+<p>((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

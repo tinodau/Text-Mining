@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271465" id="root" date="1996-12-20" xml:lang="en">
+<title>SPAIN: Lopez says new firm to cooperate with Volkswagen.</title>
+<headline>Lopez says new firm to cooperate with Volkswagen.</headline>
+<dateline>MADRID 1996-12-20</dateline>
+<text>
+<p>Controversial former Volkswagen executive Jose Ignacio Lopez de Arriortua was quoted on Friday as saying his new consulting firm would continue to cooperate with the German car group.</p>
+<p>In a interview published by the Spanish daily &quot;El Pais&quot;, Lopez said his new firm and Volkswagen would be complementary.</p>
+<p>Lopez announced earlier this week he would set up a new consulting firm, &quot;Arriortua and Company&quot;, with operating branches in Madrid, Barcelona, German and Brazil.</p>
+<p>He is accused by his former employer, General Motors, of taking company secrets to VW in March 1993. Lopez has been charged by German prosecutors along with three others. He is accused of stealing secrets including plans for a new factory in Spain and documents for a new car.</p>
+<p>He resigned from VW in November to prepare his defence.</p>
+<p>Lopez said in the interview his main professional hope is to start a car factory in his native town in Amorebieta.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

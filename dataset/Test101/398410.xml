@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398410" id="root" date="1997-02-24" xml:lang="en">
+<title>GERMANY: VW turns over documents to investigators.</title>
+<headline>VW turns over documents to investigators.</headline>
+<byline>John Gilardi</byline>
+<dateline>FRANKFURT 1997-02-24</dateline>
+<text>
+<p>Volkswagen AG said on Monday it has turned over the findings of its internal investigations to prosecutors probing allegations that employees at the German carmaker demanded and received bribes from suppliers.</p>
+<p>A VW spokesman declined to discuss the content of the information, which was handed over to prosecutors in the nearby city of Braunschweig, and said the carmaker has not yet decided whether it would make them public.</p>
+<p>The findings of VW's internal enquiry had in some cases been gathered by private investigators.</p>
+<p>VW spokesman Klaus Kocks on Sunday had said the carmaker promised a &quot;comprehensive explanation&quot; of corruption allegations in a statement to be released on Wednesday.</p>
+<p>The allegations refer to a series of possible corruption cases among suppliers, including allegations that some suppliers charged higher invoices to cream off some of the excess cash to pay the VW workers involved with the contracts.</p>
+<p>Prosecutors in Braunschweig have said they were investigating two people as part of the probe into allegations some VW employees demanded about 20 million marks in kickbacks from Swiss-Swedish engineering group ABB Asea Brown Boveri for a plant contract for VW's Czech Skoda unit.</p>
+<p>VW has suspended one purchasing department worker and fired another, who was then placed in investigative custody by German prosecutors, in recent weeks as allegations of the bribery scandal began to emerge.</p>
+<p>Kocks said there was still no evidence of a network conspiracy among purchasing employees.</p>
+<p>VW said on Sunday it would do everything in its power to clear up allegations of corruption in the German car industry.</p>
+<p>&quot;VW wants to clear up a possible swamp of corruption in the supplies sector,&quot; VW spokesman Kocks told Reuters.</p>
+<p>He said VW has urged suppliers, including ABB, to initiate legal proceedings if necessary to solve the allegations, which carmakers fear could have a negative impact on the German car industry.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

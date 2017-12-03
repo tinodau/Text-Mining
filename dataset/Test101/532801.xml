@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532801" id="root" date="1997-04-23" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON 1997-04-23</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended on Wednesday.</p>
+<p>LONDON - UK shares rose to five-week highs, lifted Tuesday's buoyant Wall Street, where hopes for continued strong profit growth helped spark the biggest one-day Dow rise in point terms for ten years. Shrugging off the Bank of England's latest call for higher interest rates, the FTSE 100 index closed up 41.6 points at 4,387.7.</p>
+<p>FRANKFURT - Germany's DAX share index shrugged off weakness in one of its heavyweight shares to post solid gains in bourse trade, drawing strength from overnight Wall Street gains and the firmer dollar. The 30-share DAX index ended up 55.62 points at 3,395.95. In post-bourese trade the DAX was up 17.97 at 3366.87.</p>
+<p>PARIS - French shares finished higher but off their session highs due to a softer dollar tone and weakness in morning trading on Wall Street. Profit-taking on the last day of the April account also meant the CAC index failed to break through resistance at 2,550. The CAC had rebounded sharply at the opening, helped by the Dow's sharp rise on Tuesday and a generally strong dollar.</p>
+<p>The blue-chip CAC-40 index closed up 18.97 points at 2,533.64.</p>
+<p>ZURICH - Swiss shares closed firmer but the blue-chip Swiss Market Index (SMI) backed off an all-time high of 4813.7 points after Wall Street opened weak. Wall Street's second-biggest point jump in history on Tuesday, the firmer dollar, the stronger bond market and options related buying supported the market. The broad Swiss Performance Index advanced 16.39 points, at 3,022.83 points.</p>
+<p>TOKYO - Tokyo stocks closed sharply higher after waves of buying of blue-chip shares cancelled out losses caused by profit-taking in sectors such as banks, which had been propped up by short-covering in recent sessions. The Nikkei average finished at 18,735.47 after gaining 191.02 points, its highest close since Febraury 27, when it ended at 19,021.</p>
+<p>HONG KONG - Hong Kong stocks closed sharply higher on Wednesday, but came off the morning's peaks due to caution regarding the longer term outlook for U.S. and Hong Kong interest rates. The Hang Seng Index closed 126.19 points higher at 12,707.04, after shooting to a day's high of 12,758.28 at the start of trading.</p>
+<p>SYDNEY - A buoyant Australian share market locked in solid gains by the close on Wednesday after Wall Street surged and local markets comfortably digested March quarter inflation figures. The All Ordinaries index climbed 24.7 points to 2,472.3.</p>
+<p>JOHANNESBURG - South African industrial shares finished slightly firmer, but came off their morning highs on profit-taking in late trade on Wednesday, dealers said.</p>
+<p>Wall Street's rise by 173 points on Tuesday had propelled the industrials higher in early trade with some dealers welcoming the bouyancy while others predicted a breather towards close of trade. The dealers said underlying sentiment remained positive but most market players were cautious ahead of economic data -- money supply, private sector credit growth extension and trade figures -- due out on Thursday and Friday. The industrial index closed 40.3 points up at 8,414.8, and the all-share index added 14.3 points to 7,080.2. The gold index closed down 31.6 points at 1,231.8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

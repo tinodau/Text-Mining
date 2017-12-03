@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="401286" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: GM working closely with VW on parts sales.</title>
+<headline>GM working closely with VW on parts sales.</headline>
+<dateline>DETROIT 1997-02-25</dateline>
+<text>
+<p>General Motors Corp.'s Delphi Automotive Systems unit said on Tuesday it is now working closely with Volkswagen AG to determine the composition of the $1 billion worth of GM parts that VW has agreed to buy to settle the Lopez industrial espionage dispute.</p>
+<p>J.T. Battenberg, GM executive vice president in charge of the Delphi parts unit, said he recently met with VW Chairman Ferdinand Piech and added that the two executives had a &quot;very good meeting.&quot;  </p>
+<p>&quot;We've normalized relations with Volkswagen,&quot; Battenberg told reporters at the Society of Automotive Engineers conference here. &quot;It's pretty much business as usual.&quot;</p>
+<p>Battenberg declined to reveal the types of components that Volkswagen may purchase from GM. He said teams of Delphi and VW personnel are now working on the project.</p>
+<p>Currently, VW buys about $300 million worth of Delphi parts a year, including a large portion of automobile wiring harnesses. The $1 billion of new parts purchases would be incremental business for Delphi, he said.  </p>
+<p>VW agreed to buy an additional $1 billion worth of components from GM over the next seven years as a part of a deal to settle GM's lawsuit over the actions of former purchasing executive J. Ignacio Lopez de Arriortua.</p>
+<p>GM accused Lopez and others of stealing corporate secrets, including GM's supplier prices in Europe, when they left the Detroit automaker to join VW in 1993.</p>
+<p>Lopez, who resigned from VW in December, faces criminal charges in Germany and is the subject of ongoing investigations both in the United States and Germany.</p>
+<p>To settle GM's U.S. civil complaint, VW also agreed to pay GM $100 million in cash.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226441" id="root" date="1996-11-29" xml:lang="en">
+<title>GERMANY: VW denies Lopez already offered resignation.</title>
+<headline>VW denies Lopez already offered resignation.</headline>
+<text>
+<p>WOLFSBURG, Germany, Nov 29 Reuter) - A Volkswagen AG spokesman on Friday denied a radio report that VW production chief Jose Ignacio Lopez de Arriortua had already offered to resign.</p>
+<p>&quot;That cannot be, they have not discussed the matter yet,&quot; VW spokesman Klaus Kocks said in response to a Reuters enquiry.</p>
+<p>The report on local north German radio had said that Lopez had offered to resign. It cited a member of the VW supervisory board.</p>
+<p>The supervisory board started meeting at 0800 GMT on Friday amid reports that Lopez, at the centre of a three-year legal battle with General Motors, would offer to step down.</p>
+<p>Lopez is acccused of industrial espionage.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

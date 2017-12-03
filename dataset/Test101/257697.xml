@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257697" id="root" date="1996-12-15" xml:lang="en">
+<title>GERMANY: Lopez case could spark German boycott - survey.</title>
+<headline>Lopez case could spark German boycott - survey.</headline>
+<dateline>FRANKFURT 1996-12-15</dateline>
+<text>
+<p>A third of Germans might boycott U.S. goods if high damages were awarded against Volkswagen AG in a case of alleged industrial spying, said a survey published at the weekend.</p>
+<p>Four ex-General Motors executives, including Jose Ignacio Lopez de Arriortua, who went on to become VW's chief of production, have been accused of stealing GM documents when they left the U.S. car-maker for VW in 1993.</p>
+<p>Lopez, who resigned from VW in November, is accused of stealing plans for a new factory in Spain and documents for a new car being developed by GM.</p>
+<p>The accusations are being tried in both Germany and the United States, where GM is bringing a racketeering lawsuit that could lead to huge damages against the German car-maker.</p>
+<p>The survey, published in the weekly German news magazine Focus, also found that 42 percent of the Germans questioned said that damages &quot;in the regions of billions&quot; of marks (dollars) would be unjustified.</p>
+<p>Boycotts by German consumers have in the past exerted strong influence, even on multinational companies.</p>
+<p>Last year, oil giant Shell was forced to abandon plans to ditch its obsolete Brent Spar oil rig in the Atlantic after a campaign by environmental group Greenpeace including a German boycott of Shell petrol stations.</p>
+<p>Automotive analysts say that GM and its German unit Opel needs to take possible harm to its public image in Germany into account as they proceed with their legal battle against Volkswagen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

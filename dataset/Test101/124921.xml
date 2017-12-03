@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124921" id="root" date="1996-10-17" xml:lang="en">
+<title>SWITZERLAND: GM optimistic after latest Lopez case ruling.</title>
+<headline>GM optimistic after latest Lopez case ruling.</headline>
+<dateline>ZURICH 1996-10-17</dateline>
+<text>
+<p>General Motors Corp is hopeful that a case pending in a U.S. court will find it entitled to compensation in connection with a complaint concerning a former GM executive who left over three years ago to work for Volkswagen AG.</p>
+<p>The ruling is the latest twist in a protracted legal battle involving Jose Ignacio Lopez de Arriortua, who left GM to work for VW in March 1993.</p>
+<p>&quot;We believe the forthcoming case concerning this civil complaint will not only lead to remedies of the substantial damages suffered by Opel and General Motors, but also finally to a judicial determination of the wrongful acts in conjuction with Lopez's move to VW, which the defendents have now been attempting to prevent for three and one-half years,&quot; GM said.</p>
+<p>The statement, released from GM's European headquarters, followed news Wednesday that a U.S. district judge denied a motion by VW to dismiss a lawsuit filed by GM against VW and some of its executives, including Lopez. GM has accused them of stealing trade secrets.</p>
+<p>VW has denied the allegations. -- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

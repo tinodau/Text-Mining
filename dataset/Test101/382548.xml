@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="382548" id="root" date="1997-02-17" xml:lang="en">
+<title>GERMANY: VW steps up probe into bribery allegations.</title>
+<headline>VW steps up probe into bribery allegations.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>Volkswagen AG said Monday it asked German prosecutors to investigate growing bribery allegations tied to a major paint factory contract for its Czech Skoda unit awarded to Swiss-Swedish engineering group ABB Asea Brown Boveri.</p>
+<p>VW said it filed the legal complaint on Friday to start the criminal probe into allegations that some VW workers demanded about 20 million German marks ($12 million) in bribes from ABB in exchange for the 400 million mark ($238 million) plant expansion contract.</p>
+<p>The allegations add to the mounting troubles for Volkswagen, emerging only a few weeks after VW agreed to end GM's lawsuit charging that former GM executive Jose Ignacio Lopez had stolen thousands of secret documents when he left to join VW in March 1993.</p>
+<p>VW sought to solve its troubles over Lopez, credited with returning VW to profitability, by agreeing to pay GM about $100 million and buy $1 billion of parts over the next seven years.</p>
+<p>Swiss prosecutor Urs Hubmann said Monday he questioned two people last week as part of the probe, which was requested by ABB after the allegations surfaced in January.</p>
+<p>Hubmann declined to identify the people who were questioned in Zurich.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

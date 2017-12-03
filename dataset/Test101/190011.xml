@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190011" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Experts question U.S. ability to try alleged spy.</title>
+<headline>Experts question U.S. ability to try alleged spy.</headline>
+<byline>Leslie Gevirtz</byline>
+<dateline>BOSTON 1996-11-13</dateline>
+<text>
+<p>The arraignment of a former Soviet KGB agent on conspiracy and espionage charges was scheduled to resume on Thursday as experts debated whether the United States could legally prosecute the man.</p>
+<p>Vladimir Galkin is accused of being a retired agent for the Committee for State Security in the Soviet Union, the now defunct KGB, who in 1991 allegedly tried to obtain secret information about the Star Wars programme or the Strategic Defence Initiative as it was officially known.</p>
+<p>The 50-year-old former spy, who retired in 1992 and did not conceal his previous occupation on a visa application, was arrested on Oct. 29 at New York's John F. Kennedy airport on the charges.</p>
+<p>His arrest has sparked anger in Moscow where Russia's Foreign Intelligence Service (SVR) which sees it as a breach of an understanding between rival spy agencies not to persecute retired intelligence officers. The SVR has threatened to retaliate.</p>
+<p>&quot;Indeed, what is sauce for the goose is sauce for the gander,&quot; said Harvard Unversity Law School Professor Anne-Marie Slaughter. &quot;Of course, the Russians could retaliate. They could arrest a CIA agent and try him under Russian law. That is if they're stupid enough to go there.&quot;</p>
+<p>Tufts Fletcher School of Law and Diplomacy Professor Alfred Rubin agreed saying, &quot;People can do to you whatever you can do to them.&quot;</p>
+<p>But the two international law experts took different views on whether U.S. espionage laws could apply to foreigners acting abroad.</p>
+<p>&quot;The U.S. espionage act certainly applies to foreigners in this country and it applies to Americans abroad, but this is an application that is debatable. I'm not certain whether it makes sense at all,&quot; said Rubin.</p>
+<p>&quot;There has been an expansion of U.S. laws as they apply abroad, especially in the antitrust area&quot; he noted.</p>
+<p>Over the past 50 years, the U.S. Supreme Court has strengthened the hand of prosecutors trying to pursue allegations of anticompetitive conspiracies by foreign companies when their actions had a substantial impact on U.S. commerce.</p>
+<p>Slaughter said the expansion has also taken place in interpretations of &quot;securities law, environmental laws and criminal laws&quot; calling the prosecution of former Panamanian strongman Manuel Noriega &quot;just the most notorious case, but there have been others that are of less celebrated citizens.&quot;</p>
+<p>&quot;This,&quot; she said, &quot;could be considered a natural extension if it meets the doctrinal tests for whether the statute should apply abroad.&quot;</p>
+<p>While there is no U.S. statute of limitation on spy charges, there is yet another conflict for Galkin, the suspected spymaster for whom an Indian businessman worked.</p>
+<p>The first trial of the businessman, Aluru Prasad, ended in a mistrial. There has been speculation in the press that prosecutors need Galkin's testimony to successfully convict Prasad. But if he testifies, in return for a grant of immunity from U.S. prosecution, Galkin would violate Russian law which prohibits former intelligence officers from talking about their agents.</p>
+<p>&quot;It will take a sophisticated judge,&quot; said Tuft's Rubin, who added, &quot;Personally, I think he will probably shut up and trust the Russians to get him out of this.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="USSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

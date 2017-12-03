@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125475" id="root" date="1996-10-17" xml:lang="en">
+<title>GERMANY: Volkswagen down after U.S. lawsuit decision.</title>
+<headline>Volkswagen down after U.S. lawsuit decision.</headline>
+<dateline>FRANKFURT 1996-10-17</dateline>
+<text>
+<p>Shares in German car-maker Volkswagen AG fell 6.25 marks to 580.50 in early trade on Thursday after a a U.S. judge on Wednesday denied a motion by it seeking to block a lawsuit filed by General Motors.</p>
+<p>The GM lawsuit accuses VW and several of its top executives of stealing corporate secrets.</p>
+<p>&quot;It has had more of an impact on sentiment than anything else. There has been some negativity surrounding VW shares anyway,&quot; one German automotive sector analyst said.</p>
+<p>But he added that if the price fell any further, many investors would see it as an opportunity to buy back VW shares.</p>
+<p>General Motors filed a motion in March 1996 alleging that some of its former executives stole product plans, parts purchasing information and the details of a new manufacturing system when they defected to VW three years earlier.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

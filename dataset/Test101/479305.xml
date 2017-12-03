@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479305" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Dow Chemical sues GE over plastics trade secrets.</title>
+<headline>Dow Chemical sues GE over plastics trade secrets.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1997-04-01</dateline>
+<text>
+<p>Dow Chemical Co. said Tuesday it filed a lawsuit charging General Electric Co. with pirating trade secrets from Dow's automotive and engineering plastics businesses.</p>
+<p>Dow said its complaint, filed in Oakland County Circuit Court in Michigan, alleges that GE systematically and aggressively targeted, recruited and hired Dow employees who were privy to Dow trade secrets.</p>
+<p>Dow said GE put these employees into similar jobs where they would inevitably use confidential information on Dow's advances in automotive plastics technology.</p>
+<p>The suit seeks unspecified monetary damages in excess of $10,000 and an injunction that would halt those GE hiring practices and require that GE put the former Dow employees in jobs that will not require or inevitably cause them to use trade secrets.</p>
+<p>&quot;We're filing this suit because we believe that GE is breaking the law,&quot; Dow automotive president Larry Denton said in a statement. &quot;GE was unable to duplicate our advances in automotive technology so they set out to raid our workforce in order to loot our trade secrets.&quot;</p>
+<p>Dow and GE are rivals in the growing market for high-tech plastics that allow automakers to reduce vehicle weight and cost and improve styling and performance.</p>
+<p>GE spokesman Bruce Bunch said the industrial giant vigorously denied the allegations and would fight the lawsuit.</p>
+<p>&quot;GE respects the value and importance of trade secrets. We have reviewed Dow's allegations and find them to be groundless and without merit,&quot; Bunch said. &quot;GE has not obtained any Dow Chemical trade secrets.&quot;</p>
+<p>Bunch added that GE has guidelines in place that prevent it from using confidential information from a new employee's former employer.</p>
+<p>Earlier this year General Motors Corp. reached a $1.1 billion settlement with Volkswagen AG that ended a long-running dispute over GM's allegations that Jose Ignacio Lopez de Arriortua and his followers stole GM trade secrets when they abruptly left GM to join VW in 1993.</p>
+<p>Lopez resigned as VW's production chief in November 1996 and is facing criminal charges in Germany.</p>
+<p>In a civil racketeering lawsuit that was settled in the deal, GM had alleged that Lopez, who was head of worldwide purchase at GM, stole confidential information on GM's future product plans, supplier prices and manufacturing techniques, which it claimed contributed to VW's recent financial turnaround.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

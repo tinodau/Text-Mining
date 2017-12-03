@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224371" id="root" date="1996-11-28" xml:lang="en">
+<title>GERMANY: VW shares edge higher on Lopez report.</title>
+<headline>VW shares edge higher on Lopez report.</headline>
+<dateline>FRANKFURT 1996-11-28</dateline>
+<text>
+<p>Shares in German car-maker Volkswagen AG edged higher in pre-bourse trade on Thursday after a newspaper report that its production chief Jose Ignacio Lopez de Arriortua was likely to offer his resignation.</p>
+<p>Lopez is at the centre of a three-year legal battle between VW and General Motors (GM) unit Opel, which accuses him of taking company secrets with him when he moved to VW from GM in 1993.</p>
+<p>In pre-bourse electronic trade, VW shares gained 5.50 marks to 613.50.</p>
+<p>Its stock fell 37.75 marks in bourse trade on Wednesday after a U.S. judge decided to allow GM to pursue racketeering charges against Lopez and other VW bosses, including management board chairman Ferdinand Piech.</p>
+<p>VW said in a statement that it would not be commenting Thursday on the report of Lopez's imminent resignation, which appeared in the Handeslblatt German business daily.</p>
+<p>If a jury finds VW harmed GM, VW could be forced to pay triple the amount of the damage found to have been caused.</p>
+<p>-- Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

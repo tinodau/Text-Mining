@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244137" id="root" date="1996-12-09" xml:lang="en">
+<title>GERMANY: VW's Piech says regrets confusion,costs from Lopez.</title>
+<headline>VW's Piech says regrets confusion,costs from Lopez.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>Volkswagen AG Chief Executive Ferdinand Piech said Monday he regretted the trouble, costs and confusion to General Motors Corp. over the March 1993 transfer of some GM executives to VW who face allegations of industrial spying.</p>
+<p>Piech also told journalists at a VW event in Colmar, Germany, that the transfer of the executive at the centre of the dispute, Jose Ignacio Lopez de Arriortua, to VW was legal.</p>
+<p>He also said talks to settle a U.S. civil lawsuit filed by GM in Detroit alleging VW and its top executives with racketeering would likely resume after German prosecutors file charges in the coming weeks against Lopez.</p>
+<p>In addition, Piech said payment for damages was the least important point in prior settlement talks with GM.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

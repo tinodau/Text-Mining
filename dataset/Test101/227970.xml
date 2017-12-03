@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227970" id="root" date="1996-12-02" xml:lang="en">
+<title>TANZANIA: Tanzania ferry suspects appear in court.</title>
+<headline>Tanzania ferry suspects appear in court.</headline>
+<dateline>DAR ES SALAAM 1996-12-02</dateline>
+<text>
+<p>The captain of the Tanzanian ferry Bukoba, which sank last May in Lake Victoria with the loss of up to 900 lives, appeared in court on Monday to face charges of murder, a police official said.</p>
+<p>The captain, Jumanne Rume, appeared in Mwanza district court along with two senior transport officials of the Bukoba and Kemondo Bay ports, said the Mwanza-based police official, who asked not to be named. No other details were available.</p>
+<p>Tanzanian media quoted the Mwanza regional police commander, Ignas Mtana, as saying the three men, all employees of the state-owned Tanzania Railways Corporation (TRC), were arrested last week and had been held under tight security.</p>
+<p>The Belgian-designed ferry was on a routine journey between the ports of Bukoba and Mwanza on May 21 when it capsized at the entrance to Mwanza harbour.</p>
+<p>A bungled attempt to rescue passengers trapped inside the upturned hull ended in disaster and the ship sank in about 30 metres (100 ft) of water.</p>
+<p>Eyewitnesses and survivors said the ferry was massively overloaded with cargo and passengers. Complaints have also been raised about its seaworthiness and the fact that the TRC did not have the vessel insured.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

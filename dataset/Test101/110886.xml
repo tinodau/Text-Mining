@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110886" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Clinton signs annual intelligence bill.</title>
+<headline>Clinton signs annual intelligence bill.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>President Bill Clinton on Friday signed into law a spending authorisation for a dozen U.S. intelligence agencies despite misgivings about some of its provisions, which he said he would seek to rectify.</p>
+<p>Clinton also signed a related measure, the Economic Espionage Act of 1996, which strengthens safeguards against the theft or misuse of proprietary business information.</p>
+<p>&quot;Until today, federal law has not accorded appropriate or adequate protection to trade secrets, making it difficult to prosecute thefts involving this kind of information,&quot; Clinton said in a written statement.</p>
+<p>He said the new statute was &quot;an outstanding example&quot; of his administration, Congress and business working together to provide law enforcement with the tools to combat the problems of economic espionage and trade secret theft.</p>
+<p>The funding level of the intelligence authorisation was secret, but Clinton said in a statement it &quot;largely reflects my budget request.&quot;</p>
+<p>The United States reportedly spends about $28 billion a year on foreign intelligence operations.</p>
+<p>Clinton expressed reservations about some provisions of the bill that he said either duplicate initiatives he has taken or encroach on his constitutional powers.</p>
+<p>These included a stipulation that two new National Security Council committees be created, a requirement that the director of central intelligence (DCI) be consulted on certain appointments, and the mandating of three new intelligence posts.</p>
+<p>&quot;The administration has supported the concept of obtaining the DCI's concurrence or consultation prior to the appointment of certain other intelligence officials,&quot; Clinton said. But he said he would mandate this by executive order to avoid possible constitutional problems with making it law.</p>
+<p>Clinton said the three new intelligence posts would just be another layer of bureaucracy, and vowed to ask the next Congress to repeal this provision.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

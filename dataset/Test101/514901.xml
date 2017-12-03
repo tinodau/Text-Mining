@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514901" id="root" date="1997-04-16" xml:lang="en">
+<title>AUSTRIA: VA Tech rejects Kvaerner espionage charges.</title>
+<headline>VA Tech rejects Kvaerner espionage charges.</headline>
+<dateline>VIENNA 1997-04-16</dateline>
+<text>
+<p>VA Technologie AG, whose unit VAI is enmeshed in an industrial espionage row with Scandinavian rival Kvaerner, on Wednesday maintained its assertion it had committed no wrongdoing.</p>
+<p>&quot;We don't need to spy. We are the leader in technology,&quot; said VA Tech chief executive Othmar Puehringer.</p>
+<p>Davy International, Kvaerner's UK metals processing arm, alleges employees who formerly worked at a Davy subsidiary in Britain took key documents with them when recruited by VAI.</p>
+<p>Davy pressed charges after VAI won a lucrative order last year from the Saudi Iron and Steel company (Hadeed) for which both companies had been bitterly competing.</p>
+<p>&quot;Several employees took documents with them. That was wrong. But VAI did not use these documents,&quot; Puehringer said, adding the technology applied at the Hadeed plant was of a totally different nature from the one offered by Davy.</p>
+<p>Puehringer said it was as yet unclear in which country the court case would take place. -- Vienna newsroom, +431 531 12256</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
