@@ -8,6 +8,8 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from string import digits
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.naive_bayes import MultinomialNB
+
 vectorizer = CountVectorizer()
 
 # classifier = nltk.NaiveBayesClassifier.train(train_set)
@@ -27,6 +29,12 @@ def getTraining():
         # OPEN TOPIC FILE TO GET ALL TRAINING FILE NAME
         readTrainingFile = numpy.genfromtxt(listTraining, delimiter=" ", dtype=str)
 
+    print 'extracting data'
+    with open('dataset/topic/Test101.txt') as listTraining:
+        # OPEN TOPIC FILE TO GET ALL TRAINING FILE NAME
+        readTestFile = numpy.genfromtxt(listTraining, delimiter=" ", dtype=str)
+
+
     # PARSE FILE CONTENT
     # TRAININGFILE[1] = FILENAME INSIDE NUMPY ARRAY
     tmpTraining = []
@@ -43,32 +51,55 @@ def getTraining():
         for word in paragraphs:
             words = words + ' ' + word.childNodes[0].nodeValue
         tmpTraining.append([str(trainingFile[1]), str(trainingFile[2]), words])
+
+    tmpTesting = []
+    for testingFile in readTestFile:
+        parseTraining = xml.dom.minidom.parse('dataset/Test101/' + testingFile[1] + '.xml')
+        element = parseTraining.documentElement
+
+        # GET TEXT FROM INSIDE OF <TEXT> AND <P> TAG
+        getText = element.getElementsByTagName('text')[0]
+        paragraphs = getParagraph(getText)
+
+        # PUSH EVERY WORD FROM 1 DOCUMENT TO ARRAY
+        words = ''
+        for word in paragraphs:
+            words = words + ' ' + word.childNodes[0].nodeValue
+        tmpTesting.append([str(trainingFile[1]), str(trainingFile[2]), words])
+
     print 'Saving to training.csv'
     # CREATE NEW RAW CSV TRAINING FILE FROM NUMPY TMPTRAINING
     arrayTraining = numpy.asarray(tmpTraining)
     numpy.savetxt('training.csv', arrayTraining, fmt='%1s', delimiter='>>')
 
+    arrayTesting = numpy.asarray(tmpTesting)
+    numpy.savetxt('testing.csv', arrayTesting, fmt='%1s', delimiter='>>')
+
 
 def preprocessing():
     # EXTRACTION
     with open('training.csv') as raw:
-        raws = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
+        rawsTraining = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
+
+    with open('testing.csv') as raw:
+        rawsTesting = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
 
     print 'Starting Preprocessing'
 
     # STOPWORD REMOVAL
     wordnetLemitizer = WordNetLemmatizer()
     stopWords = set(stopwords.words('english'))
-    wordCollection = []
-    for idx in range(0, len(raws)):
-        tokenized = word_tokenize(re.sub(r'''[/.!$%^&*()?'`",:;|0-9+-=]''', '', raws[idx][2]).lower())
+
+    wordCollectionTraining = []
+    for idx in range(0, len(rawsTraining)):
+        tokenized = word_tokenize(re.sub(r'''[/.!$%^&*()?'`",:;|0-9+-=]''', '', rawsTraining[idx][2]).lower())
         # print tokenized
 
         # wordTokenized = wordnetLemitizer.tokenize(tokenized)
         filtered = [token for token in tokenized if not token in stopWords]
         for filteredWord in filtered:
-            if filteredWord not in wordCollection:
-                wordCollection.append(filteredWord)
+            if filteredWord not in wordCollectionTraining:
+                wordCollectionTraining.append(filteredWord)
 
         # LEMMATIZE
         lemmatized = []
@@ -87,26 +118,86 @@ def preprocessing():
         #     stemmed.append(stem)
         # print stemmed
 
-        raws[idx][2] = ''
+        rawsTraining[idx][2] = ''
         for lemmatizing in lemmatized:
-            raws[idx][2] = raws[idx][2] + ' ' + lemmatizing
+            rawsTraining[idx][2] = rawsTraining[idx][2] + ' ' + lemmatizing
 
-    print 'Saving to preprocess.csv'
-    arrayPreprocess = numpy.asarray(raws)
-    numpy.savetxt('preprocess.csv', arrayPreprocess, fmt='%1s', delimiter='>>')
+
+    wordCollectionTesting = []
+    for idx in range(0, len(rawsTesting)):
+        tokenized = word_tokenize(re.sub(r'''[/.!$%^&*()?'`",:;|0-9+-=]''', '', rawsTesting[idx][2]).lower())
+        # print tokenized
+
+        # wordTokenized = wordnetLemitizer.tokenize(tokenized)
+        filtered = [token for token in tokenized if not token in stopWords]
+        for filteredWord in filtered:
+            if filteredWord not in wordCollectionTesting:
+                wordCollectionTesting.append(filteredWord)
+
+        # LEMMATIZE
+        lemmatized = []
+        for idx2 in filtered:
+            lem = wordnetLemitizer.lemmatize(idx2)
+            lem = wordnetLemitizer.lemmatize(lem, wordnet.ADJ)
+            lem = wordnetLemitizer.lemmatize(lem, wordnet.ADV)
+            lem = wordnetLemitizer.lemmatize(lem, wordnet.NOUN)
+            lem = wordnetLemitizer.lemmatize(lem, wordnet.VERB)
+            lemmatized.append(lem)
+
+        # STEMMING
+        # stemmed = []
+        # for idx2 in filtered:
+        #     stem = PorterStemmer().stem(idx2)
+        #     stemmed.append(stem)
+        # print stemmed
+
+        rawsTesting[idx][2] = ''
+        for lemmatizing in lemmatized:
+            rawsTesting[idx][2] = rawsTesting[idx][2] + ' ' + lemmatizing
+
+    print 'Saving to preprocess file'
+
+    arrayPreprocess = numpy.asarray(rawsTraining)
+    numpy.savetxt('preprocessTraining.csv', arrayPreprocess, fmt='%1s', delimiter='>>')
+
+    arrayPreprocess = numpy.asarray(rawsTesting)
+    numpy.savetxt('preprocessTesting.csv', arrayPreprocess, fmt='%1s', delimiter='>>')
 
 def classification():
     with open('preprocess.csv') as raw:
         praproses = numpy.genfromtxt(raw, delimiter='>>', dtype=str)
     print 'Starting Classification'
 
-    TFIDF = TfidfVectorizer(tokenizer=lambda x:x,min_df=4,preprocessor=lambda x: x,lowercase=False)
+    getWords = []
+    label = []
+    for idx in range(0, len(praproses)):
+        getWords.append(praproses[idx][2])
+        label.append(praproses[idx][1])
+    print len(getWords)
+
+    splitWords = []
+    for idx in range(0, len(getWords)):
+        splited = getWords[idx].split()
+        splitWords.append(splited)
+    # print splitWords
+
+    tfIdf = TfidfVectorizer(tokenizer=lambda x:x,min_df=4,preprocessor=lambda x: x,lowercase=False)
+
+    transformTfIdf = tfIdf.fit_transform(splitWords)
+
+    # classifier
+
+    classifier = MultinomialNB().fit(transformTfIdf, label)
+    # prediction =
+    # print classifier
 
 
+    # print coba
 
-    print 'saving to bagofwords.csv'
-    arrayPreprocess = numpy.asarray(bagOfWordsCollection)
-    numpy.savetxt('bagofwords.csv', arrayPreprocess, fmt='%1s', delimiter='>>')
+    # CLASSIFIER
+    # print 'saving to tfidf.csv'
+    # arrayPreprocess = numpy.asarray(transformTfIdf)
+    # numpy.savetxt('tfidf.csv', arrayPreprocess, fmt='%2s', delimiter='>>')
 
 def main():
     getTraining()
